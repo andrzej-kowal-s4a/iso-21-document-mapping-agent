@@ -1,0 +1,163 @@
+
+[
+    {
+        "word": "incident",
+        "matching": 0.95
+    },
+    {
+        "word": "response",
+        "matching": 0.95
+    },
+    {
+        "word": "resolution",
+        "matching": 0.95
+    },
+    {
+        "word": "availability",
+        "matching": 0.95
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.95
+    },
+    {
+        "word": "disaster",
+        "matching": 0.95
+    },
+    {
+        "word": "recovery",
+        "matching": 0.95
+    },
+    {
+        "word": "change",
+        "matching": 0.95
+    },
+    {
+        "word": "problem",
+        "matching": 0.95
+    },
+    {
+        "word": "configuration",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.9
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.9
+    },
+    {
+        "word": "escalation",
+        "matching": 0.9
+    },
+    {
+        "word": "backup",
+        "matching": 0.9
+    },
+    {
+        "word": "failure",
+        "matching": 0.9
+    },
+    {
+        "word": "ha",
+        "matching": 0.9
+    },
+    {
+        "word": "rds",
+        "matching": 0.9
+    },
+    {
+        "word": "ec2",
+        "matching": 0.9
+    },
+    {
+        "word": "elb",
+        "matching": 0.9
+    },
+    {
+        "word": "vpc",
+        "matching": 0.9
+    },
+    {
+        "word": "az",
+        "matching": 0.9
+    },
+    {
+        "word": "snapshot",
+        "matching": 0.9
+    },
+    {
+        "word": "interface",
+        "matching": 0.9
+    },
+    {
+        "word": "dr",
+        "matching": 0.9
+    },
+    {
+        "word": "reporting",
+        "matching": 0.85
+    },
+    {
+        "word": "review",
+        "matching": 0.85
+    },
+    {
+        "word": "patching",
+        "matching": 0.85
+    },
+    {
+        "word": "replication",
+        "matching": 0.85
+    },
+    {
+        "word": "vulnerability",
+        "matching": 0.85
+    },
+    {
+        "word": "access",
+        "matching": 0.85
+    },
+    {
+        "word": "log",
+        "matching": 0.85
+    },
+    {
+        "word": "certificate",
+        "matching": 0.85
+    },
+    {
+        "word": "waf",
+        "matching": 0.85
+    },
+    {
+        "word": "dns",
+        "matching": 0.85
+    },
+    {
+        "word": "gateway",
+        "matching": 0.85
+    },
+    {
+        "word": "database",
+        "matching": 0.8
+    },
+    {
+        "word": "service",
+        "matching": 0.8
+    },
+    {
+        "word": "software",
+        "matching": 0.8
+    },
+    {
+        "word": "support",
+        "matching": 0.8
+    },
+    {
+        "word": "environment",
+        "matching": 0.8
+    }
+]

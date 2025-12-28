@@ -1,0 +1,163 @@
+
+[
+    {
+        "word": "training",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "compliance",
+        "matching": 0.92
+    },
+    {
+        "word": "security",
+        "matching": 0.9
+    },
+    {
+        "word": "risk",
+        "matching": 0.88
+    },
+    {
+        "word": "control",
+        "matching": 0.87
+    },
+    {
+        "word": "standard",
+        "matching": 0.85
+    },
+    {
+        "word": "procedure",
+        "matching": 0.85
+    },
+    {
+        "word": "objective",
+        "matching": 0.83
+    },
+    {
+        "word": "strategy",
+        "matching": 0.82
+    },
+    {
+        "word": "alignment",
+        "matching": 0.81
+    },
+    {
+        "word": "certification",
+        "matching": 0.81
+    },
+    {
+        "word": "development",
+        "matching": 0.8
+    },
+    {
+        "word": "knowledge",
+        "matching": 0.79
+    },
+    {
+        "word": "management",
+        "matching": 0.78
+    },
+    {
+        "word": "employee",
+        "matching": 0.77
+    },
+    {
+        "word": "review",
+        "matching": 0.76
+    },
+    {
+        "word": "contractor",
+        "matching": 0.75
+    },
+    {
+        "word": "approval",
+        "matching": 0.75
+    },
+    {
+        "word": "conformance",
+        "matching": 0.74
+    },
+    {
+        "word": "quality",
+        "matching": 0.73
+    },
+    {
+        "word": "documentation",
+        "matching": 0.72
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.71
+    },
+    {
+        "word": "legislative",
+        "matching": 0.7
+    },
+    {
+        "word": "provision",
+        "matching": 0.69
+    },
+    {
+        "word": "change",
+        "matching": 0.68
+    },
+    {
+        "word": "effective",
+        "matching": 0.67
+    },
+    {
+        "word": "access",
+        "matching": 0.66
+    },
+    {
+        "word": "resource",
+        "matching": 0.65
+    },
+    {
+        "word": "performance",
+        "matching": 0.64
+    },
+    {
+        "word": "contractual",
+        "matching": 0.63
+    },
+    {
+        "word": "audit",
+        "matching": 0.62
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.61
+    },
+    {
+        "word": "obligation",
+        "matching": 0.6
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.59
+    },
+    {
+        "word": "identification",
+        "matching": 0.58
+    },
+    {
+        "word": "regulation",
+        "matching": 0.57
+    },
+    {
+        "word": "compliance",
+        "matching": 0.56
+    },
+    {
+        "word": "framework",
+        "matching": 0.55
+    },
+    {
+        "word": "implementation",
+        "matching": 0.54
+    }
+]

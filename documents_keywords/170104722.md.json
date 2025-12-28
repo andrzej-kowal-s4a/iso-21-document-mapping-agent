@@ -1,0 +1,159 @@
+
+[
+    {
+        "word": "authentication",
+        "matching": 0.98
+    },
+    {
+        "word": "authorization",
+        "matching": 0.97
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.99
+    },
+    {
+        "word": "integrity",
+        "matching": 0.99
+    },
+    {
+        "word": "availability",
+        "matching": 0.99
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "vulnerability",
+        "matching": 0.96
+    },
+    {
+        "word": "incident",
+        "matching": 0.97
+    },
+    {
+        "word": "classification",
+        "matching": 0.95
+    },
+    {
+        "word": "asset",
+        "matching": 0.94
+    },
+    {
+        "word": "control",
+        "matching": 0.96
+    },
+    {
+        "word": "policy",
+        "matching": 0.93
+    },
+    {
+        "word": "compliance",
+        "matching": 0.97
+    },
+    {
+        "word": "privacy",
+        "matching": 0.96
+    },
+    {
+        "word": "data",
+        "matching": 0.95
+    },
+    {
+        "word": "system",
+        "matching": 0.93
+    },
+    {
+        "word": "management",
+        "matching": 0.92
+    },
+    {
+        "word": "security",
+        "matching": 0.99
+    },
+    {
+        "word": "access",
+        "matching": 0.97
+    },
+    {
+        "word": "nonconformity",
+        "matching": 0.95
+    },
+    {
+        "word": "personnel",
+        "matching": 0.92
+    },
+    {
+        "word": "physical",
+        "matching": 0.91
+    },
+    {
+        "word": "separation",
+        "matching": 0.90
+    },
+    {
+        "word": "customer",
+        "matching": 0.94
+    },
+    {
+        "word": "software",
+        "matching": 0.95
+    },
+    {
+        "word": "continuity",
+        "matching": 0.92
+    },
+    {
+        "word": "resilience",
+        "matching": 0.91
+    },
+    {
+        "word": "audit",
+        "matching": 0.90
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.93
+    },
+    {
+        "word": "testing",
+        "matching": 0.92
+    },
+    {
+        "word": "recovery",
+        "matching": 0.91
+    },
+    {
+        "word": "contingency",
+        "matching": 0.90
+    },
+    {
+        "word": "firewall",
+        "matching": 0.89
+    },
+    {
+        "word": "penetration",
+        "matching": 0.89
+    },
+    {
+        "word": "hardening",
+        "matching": 0.89
+    },
+    {
+        "word": "segmentation",
+        "matching": 0.88
+    },
+    {
+        "word": "multi",
+        "matching": 0.87
+    },
+    {
+        "word": "change",
+        "matching": 0.86
+    },
+    {
+        "word": "disaster",
+        "matching": 0.85
+    }
+]

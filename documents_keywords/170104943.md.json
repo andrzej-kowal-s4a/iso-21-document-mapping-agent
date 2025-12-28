@@ -1,0 +1,139 @@
+
+[
+    {
+        "word": "disposal",
+        "matching": 0.98
+    },
+    {
+        "word": "sanitization",
+        "matching": 0.97
+    },
+    {
+        "word": "destruction",
+        "matching": 0.95
+    },
+    {
+        "word": "media",
+        "matching": 0.96
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "sensitive",
+        "matching": 0.95
+    },
+    {
+        "word": "classified",
+        "matching": 0.95
+    },
+    {
+        "word": "equipment",
+        "matching": 0.94
+    },
+    {
+        "word": "information",
+        "matching": 0.93
+    },
+    {
+        "word": "security",
+        "matching": 0.92
+    },
+    {
+        "word": "risk",
+        "matching": 0.91
+    },
+    {
+        "word": "hard_drive",
+        "matching": 0.90
+    },
+    {
+        "word": "data",
+        "matching": 0.90
+    },
+    {
+        "word": "storage",
+        "matching": 0.89
+    },
+    {
+        "word": "transmission",
+        "matching": 0.89
+    },
+    {
+        "word": "clearing",
+        "matching": 0.88
+    },
+    {
+        "word": "control",
+        "matching": 0.88
+    },
+    {
+        "word": "employee",
+        "matching": 0.87
+    },
+    {
+        "word": "company",
+        "matching": 0.87
+    },
+    {
+        "word": "review",
+        "matching": 0.86
+    },
+    {
+        "word": "procedure",
+        "matching": 0.86
+    },
+    {
+        "word": "access",
+        "matching": 0.85
+    },
+    {
+        "word": "release",
+        "matching": 0.85
+    },
+    {
+        "word": "utilisation",
+        "matching": 0.85
+    },
+    {
+        "word": "hardware",
+        "matching": 0.84
+    },
+    {
+        "word": "contractor",
+        "matching": 0.84
+    },
+    {
+        "word": "staff",
+        "matching": 0.83
+    },
+    {
+        "word": "effective",
+        "matching": 0.83
+    },
+    {
+        "word": "owner",
+        "matching": 0.82
+    },
+    {
+        "word": "approval",
+        "matching": 0.82
+    },
+    {
+        "word": "lifecycle",
+        "matching": 0.81
+    },
+    {
+        "word": "version",
+        "matching": 0.81
+    },
+    {
+        "word": "guidelines",
+        "matching": 0.80
+    },
+    {
+        "word": "standards",
+        "matching": 0.80
+    }
+]

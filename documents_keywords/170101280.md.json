@@ -1,0 +1,131 @@
+
+[
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "data",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.95
+    },
+    {
+        "word": "gdpr",
+        "matching": 0.95
+    },
+    {
+        "word": "controller",
+        "matching": 0.95
+    },
+    {
+        "word": "processor",
+        "matching": 0.95
+    },
+    {
+        "word": "protection",
+        "matching": 0.95
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "analysis",
+        "matching": 0.95
+    },
+    {
+        "word": "incident",
+        "matching": 0.95
+    },
+    {
+        "word": "training",
+        "matching": 0.95
+    },
+    {
+        "word": "register",
+        "matching": 0.95
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.9
+    },
+    {
+        "word": "integrity",
+        "matching": 0.9
+    },
+    {
+        "word": "availability",
+        "matching": 0.9
+    },
+    {
+        "word": "dpo",
+        "matching": 0.9
+    },
+    {
+        "word": "pdp",
+        "matching": 0.9
+    },
+    {
+        "word": "privacy",
+        "matching": 0.9
+    },
+    {
+        "word": "encryption",
+        "matching": 0.9
+    },
+    {
+        "word": "audit",
+        "matching": 0.9
+    },
+    {
+        "word": "access",
+        "matching": 0.9
+    },
+    {
+        "word": "authenticity",
+        "matching": 0.9
+    },
+    {
+        "word": "accountability",
+        "matching": 0.9
+    },
+    {
+        "word": "retention",
+        "matching": 0.9
+    },
+    {
+        "word": "transfer",
+        "matching": 0.9
+    },
+    {
+        "word": "impact",
+        "matching": 0.9
+    },
+    {
+        "word": "measures",
+        "matching": 0.9
+    },
+    {
+        "word": "design",
+        "matching": 0.9
+    },
+    {
+        "word": "regulation",
+        "matching": 0.9
+    },
+    {
+        "word": "agreement",
+        "matching": 0.9
+    },
+    {
+        "word": "supervisory",
+        "matching": 0.9
+    },
+    {
+        "word": "compliance",
+        "matching": 0.9
+    }
+]

@@ -1,0 +1,127 @@
+
+[
+    {
+        "word": "audit",
+        "matching": 0.98
+    },
+    {
+        "word": "compliance",
+        "matching": 0.97
+    },
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "iso27001",
+        "matching": 0.95
+    },
+    {
+        "word": "software",
+        "matching": 0.95
+    },
+    {
+        "word": "policy",
+        "matching": 0.90
+    },
+    {
+        "word": "review",
+        "matching": 0.93
+    },
+    {
+        "word": "csv",
+        "matching": 0.85
+    },
+    {
+        "word": "prohibited",
+        "matching": 0.92
+    },
+    {
+        "word": "approval",
+        "matching": 0.88
+    },
+    {
+        "word": "integrity",
+        "matching": 0.87
+    },
+    {
+        "word": "reporting",
+        "matching": 0.90
+    },
+    {
+        "word": "frequency",
+        "matching": 0.85
+    },
+    {
+        "word": "noncompliance",
+        "matching": 0.90
+    },
+    {
+        "word": "rdp",
+        "matching": 0.85
+    },
+    {
+        "word": "employee",
+        "matching": 0.87
+    },
+    {
+        "word": "notification",
+        "matching": 0.85
+    },
+    {
+        "word": "submission",
+        "matching": 0.88
+    },
+    {
+        "word": "action",
+        "matching": 0.87
+    },
+    {
+        "word": "unauthorized",
+        "matching": 0.92
+    },
+    {
+        "word": "license",
+        "matching": 0.88
+    },
+    {
+        "word": "legal",
+        "matching": 0.85
+    },
+    {
+        "word": "allowlist",
+        "matching": 0.90
+    },
+    {
+        "word": "blocklist",
+        "matching": 0.90
+    },
+    {
+        "word": "oversight",
+        "matching": 0.85
+    },
+    {
+        "word": "random",
+        "matching": 0.83
+    },
+    {
+        "word": "deadline",
+        "matching": 0.83
+    },
+    {
+        "word": "reminders",
+        "matching": 0.83
+    },
+    {
+        "word": "selection",
+        "matching": 0.88
+    },
+    {
+        "word": "repetitions",
+        "matching": 0.83
+    },
+    {
+        "word": "documentation",
+        "matching": 0.85
+    }
+]

@@ -1,0 +1,143 @@
+
+[
+    {
+        "word": "training",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "request",
+        "matching": 0.95
+    },
+    {
+        "word": "approval",
+        "matching": 0.93
+    },
+    {
+        "word": "cost",
+        "matching": 0.92
+    },
+    {
+        "word": "budget",
+        "matching": 0.92
+    },
+    {
+        "word": "purchase",
+        "matching": 0.91
+    },
+    {
+        "word": "delegation",
+        "matching": 0.90
+    },
+    {
+        "word": "manager",
+        "matching": 0.90
+    },
+    {
+        "word": "estimation",
+        "matching": 0.89
+    },
+    {
+        "word": "invoice",
+        "matching": 0.88
+    },
+    {
+        "word": "refund",
+        "matching": 0.88
+    },
+    {
+        "word": "rating",
+        "matching": 0.87
+    },
+    {
+        "word": "time",
+        "matching": 0.87
+    },
+    {
+        "word": "log",
+        "matching": 0.87
+    },
+    {
+        "word": "ticket",
+        "matching": 0.87
+    },
+    {
+        "word": "project",
+        "matching": 0.86
+    },
+    {
+        "word": "conference",
+        "matching": 0.86
+    },
+    {
+        "word": "certificate",
+        "matching": 0.86
+    },
+    {
+        "word": "hr",
+        "matching": 0.85
+    },
+    {
+        "word": "travel",
+        "matching": 0.85
+    },
+    {
+        "word": "accommodation",
+        "matching": 0.85
+    },
+    {
+        "word": "backoffice",
+        "matching": 0.85
+    },
+    {
+        "word": "internal",
+        "matching": 0.84
+    },
+    {
+        "word": "external",
+        "matching": 0.84
+    },
+    {
+        "word": "employee",
+        "matching": 0.83
+    },
+    {
+        "word": "contractor",
+        "matching": 0.83
+    },
+    {
+        "word": "subcontractor",
+        "matching": 0.82
+    },
+    {
+        "word": "team",
+        "matching": 0.82
+    },
+    {
+        "word": "member",
+        "matching": 0.82
+    },
+    {
+        "word": "currency",
+        "matching": 0.81
+    },
+    {
+        "word": "vat",
+        "matching": 0.81
+    },
+    {
+        "word": "estimate",
+        "matching": 0.81
+    },
+    {
+        "word": "form",
+        "matching": 0.80
+    },
+    {
+        "word": "download",
+        "matching": 0.80
+    }
+]

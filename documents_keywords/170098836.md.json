@@ -1,0 +1,127 @@
+
+[
+    {
+        "word": "confidentiality",
+        "matching": 0.98
+    },
+    {
+        "word": "recruitment",
+        "matching": 0.95
+    },
+    {
+        "word": "transfer",
+        "matching": 0.92
+    },
+    {
+        "word": "sensitive",
+        "matching": 0.95
+    },
+    {
+        "word": "information",
+        "matching": 0.90
+    },
+    {
+        "word": "security",
+        "matching": 0.88
+    },
+    {
+        "word": "access",
+        "matching": 0.85
+    },
+    {
+        "word": "protection",
+        "matching": 0.93
+    },
+    {
+        "word": "data",
+        "matching": 0.85
+    },
+    {
+        "word": "privacy",
+        "matching": 0.87
+    },
+    {
+        "word": "policy",
+        "matching": 0.82
+    },
+    {
+        "word": "compliance",
+        "matching": 0.83
+    },
+    {
+        "word": "procedure",
+        "matching": 0.80
+    },
+    {
+        "word": "candidate",
+        "matching": 0.80
+    },
+    {
+        "word": "supervisor",
+        "matching": 0.78
+    },
+    {
+        "word": "interview",
+        "matching": 0.75
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.77
+    },
+    {
+        "word": "approval",
+        "matching": 0.76
+    },
+    {
+        "word": "vacancy",
+        "matching": 0.74
+    },
+    {
+        "word": "training",
+        "matching": 0.73
+    },
+    {
+        "word": "contract",
+        "matching": 0.72
+    },
+    {
+        "word": "cv",
+        "matching": 0.70
+    },
+    {
+        "word": "feedback",
+        "matching": 0.71
+    },
+    {
+        "word": "meeting",
+        "matching": 0.69
+    },
+    {
+        "word": "ticket",
+        "matching": 0.68
+    },
+    {
+        "word": "project",
+        "matching": 0.67
+    },
+    {
+        "word": "employee",
+        "matching": 0.66
+    },
+    {
+        "word": "recruiter",
+        "matching": 0.75
+    },
+    {
+        "word": "director",
+        "matching": 0.74
+    },
+    {
+        "word": "manager",
+        "matching": 0.73
+    },
+    {
+        "word": "team",
+        "matching": 0.72
+    }
+]

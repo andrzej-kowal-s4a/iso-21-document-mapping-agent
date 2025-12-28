@@ -1,0 +1,183 @@
+
+[
+    {
+        "word": "policy",
+        "matching": 0.98
+    },
+    {
+        "word": "security",
+        "matching": 0.97
+    },
+    {
+        "word": "device",
+        "matching": 0.95
+    },
+    {
+        "word": "access",
+        "matching": 0.95
+    },
+    {
+        "word": "data",
+        "matching": 0.95
+    },
+    {
+        "word": "control",
+        "matching": 0.94
+    },
+    {
+        "word": "authentication",
+        "matching": 0.93
+    },
+    {
+        "word": "incident",
+        "matching": 0.92
+    },
+    {
+        "word": "configuration",
+        "matching": 0.92
+    },
+    {
+        "word": "remote",
+        "matching": 0.91
+    },
+    {
+        "word": "firewall",
+        "matching": 0.91
+    },
+    {
+        "word": "malware",
+        "matching": 0.90
+    },
+    {
+        "word": "virus",
+        "matching": 0.90
+    },
+    {
+        "word": "patch",
+        "matching": 0.89
+    },
+    {
+        "word": "loss",
+        "matching": 0.89
+    },
+    {
+        "word": "damage",
+        "matching": 0.89
+    },
+    {
+        "word": "theft",
+        "matching": 0.88
+    },
+    {
+        "word": "classification",
+        "matching": 0.88
+    },
+    {
+        "word": "locking",
+        "matching": 0.87
+    },
+    {
+        "word": "inactivity",
+        "matching": 0.87
+    },
+    {
+        "word": "update",
+        "matching": 0.87
+    },
+    {
+        "word": "firmware",
+        "matching": 0.86
+    },
+    {
+        "word": "os",
+        "matching": 0.86
+    },
+    {
+        "word": "trackable",
+        "matching": 0.85
+    },
+    {
+        "word": "approval",
+        "matching": 0.85
+    },
+    {
+        "word": "owner",
+        "matching": 0.85
+    },
+    {
+        "word": "review",
+        "matching": 0.84
+    },
+    {
+        "word": "version",
+        "matching": 0.84
+    },
+    {
+        "word": "objective",
+        "matching": 0.83
+    },
+    {
+        "word": "scope",
+        "matching": 0.83
+    },
+    {
+        "word": "procedure",
+        "matching": 0.83
+    },
+    {
+        "word": "term",
+        "matching": 0.82
+    },
+    {
+        "word": "definition",
+        "matching": 0.82
+    },
+    {
+        "word": "subsidiary",
+        "matching": 0.81
+    },
+    {
+        "word": "affiliate",
+        "matching": 0.81
+    },
+    {
+        "word": "precautions",
+        "matching": 0.80
+    },
+    {
+        "word": "function",
+        "matching": 0.80
+    },
+    {
+        "word": "mechanism",
+        "matching": 0.79
+    },
+    {
+        "word": "disable",
+        "matching": 0.79
+    },
+    {
+        "word": "condition",
+        "matching": 0.79
+    },
+    {
+        "word": "minimal",
+        "matching": 0.78
+    },
+    {
+        "word": "feature",
+        "matching": 0.78
+    },
+    {
+        "word": "service",
+        "matching": 0.77
+    },
+    {
+        "word": "premises",
+        "matching": 0.77
+    },
+    {
+        "word": "authorization",
+        "matching": 0.76
+    }
+]

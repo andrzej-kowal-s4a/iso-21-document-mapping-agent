@@ -1,0 +1,143 @@
+
+[
+    {
+        "word": "wireless",
+        "matching": 0.98
+    },
+    {
+        "word": "network",
+        "matching": 0.98
+    },
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "authentication",
+        "matching": 0.95
+    },
+    {
+        "word": "segmentation",
+        "matching": 0.95
+    },
+    {
+        "word": "configuration",
+        "matching": 0.95
+    },
+    {
+        "word": "access",
+        "matching": 0.93
+    },
+    {
+        "word": "vpn",
+        "matching": 0.92
+    },
+    {
+        "word": "integrity",
+        "matching": 0.92
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.92
+    },
+    {
+        "word": "availability",
+        "matching": 0.92
+    },
+    {
+        "word": "guest",
+        "matching": 0.90
+    },
+    {
+        "word": "ap",
+        "matching": 0.90
+    },
+    {
+        "word": "ssid",
+        "matching": 0.90
+    },
+    {
+        "word": "wpa2",
+        "matching": 0.90
+    },
+    {
+        "word": "ccmp",
+        "matching": 0.90
+    },
+    {
+        "word": "psk",
+        "matching": 0.88
+    },
+    {
+        "word": "wepp",
+        "matching": 0.88
+    },
+    {
+        "word": "tkip",
+        "matching": 0.88
+    },
+    {
+        "word": "hardening",
+        "matching": 0.88
+    },
+    {
+        "word": "endpoint",
+        "matching": 0.85
+    },
+    {
+        "word": "segregation",
+        "matching": 0.85
+    },
+    {
+        "word": "credential",
+        "matching": 0.85
+    },
+    {
+        "word": "boundary",
+        "matching": 0.85
+    },
+    {
+        "word": "periodic",
+        "matching": 0.83
+    },
+    {
+        "word": "review",
+        "matching": 0.83
+    },
+    {
+        "word": "compliance",
+        "matching": 0.83
+    },
+    {
+        "word": "control",
+        "matching": 0.83
+    },
+    {
+        "word": "risk",
+        "matching": 0.80
+    },
+    {
+        "word": "asset",
+        "matching": 0.80
+    },
+    {
+        "word": "audit",
+        "matching": 0.80
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.78
+    },
+    {
+        "word": "incident",
+        "matching": 0.75
+    },
+    {
+        "word": "encryption",
+        "matching": 0.75
+    }
+]

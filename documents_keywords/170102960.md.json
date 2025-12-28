@@ -1,0 +1,135 @@
+
+[
+    {
+        "word": "Firewall",
+        "matching": 0.98
+    },
+    {
+        "word": "Authentication",
+        "matching": 0.95
+    },
+    {
+        "word": "Ports",
+        "matching": 0.95
+    },
+    {
+        "word": "Hosts",
+        "matching": 0.95
+    },
+    {
+        "word": "Crashlytics",
+        "matching": 0.95
+    },
+    {
+        "word": "Analytics",
+        "matching": 0.95
+    },
+    {
+        "word": "Firebase",
+        "matching": 0.97
+    },
+    {
+        "word": "SMTP",
+        "matching": 0.90
+    },
+    {
+        "word": "Notifications",
+        "matching": 0.90
+    },
+    {
+        "word": "Licence",
+        "matching": 0.88
+    },
+    {
+        "word": "Logs",
+        "matching": 0.85
+    },
+    {
+        "word": "Configuration",
+        "matching": 0.85
+    },
+    {
+        "word": "Support",
+        "matching": 0.85
+    },
+    {
+        "word": "Maintenance",
+        "matching": 0.85
+    },
+    {
+        "word": "Monitoring",
+        "matching": 0.83
+    },
+    {
+        "word": "Proactive",
+        "matching": 0.80
+    },
+    {
+        "word": "Servers",
+        "matching": 0.80
+    },
+    {
+        "word": "Application",
+        "matching": 0.80
+    },
+    {
+        "word": "Security",
+        "matching": 0.78
+    },
+    {
+        "word": "Policy",
+        "matching": 0.75
+    },
+    {
+        "word": "Review",
+        "matching": 0.75
+    },
+    {
+        "word": "Compliance",
+        "matching": 0.73
+    },
+    {
+        "word": "Access",
+        "matching": 0.70
+    },
+    {
+        "word": "Risk",
+        "matching": 0.68
+    },
+    {
+        "word": "Audit",
+        "matching": 0.65
+    },
+    {
+        "word": "Control",
+        "matching": 0.65
+    },
+    {
+        "word": "Incident",
+        "matching": 0.63
+    },
+    {
+        "word": "Data",
+        "matching": 0.60
+    },
+    {
+        "word": "Encryption",
+        "matching": 0.58
+    },
+    {
+        "word": "Vulnerability",
+        "matching": 0.55
+    },
+    {
+        "word": "Assessment",
+        "matching": 0.55
+    },
+    {
+        "word": "Management",
+        "matching": 0.53
+    },
+    {
+        "word": "Procedure",
+        "matching": 0.50
+    }
+]

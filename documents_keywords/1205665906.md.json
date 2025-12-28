@@ -1,0 +1,135 @@
+
+[
+    {
+        "word": "reporting",
+        "matching": 0.98
+    },
+    {
+        "word": "procedure",
+        "matching": 0.97
+    },
+    {
+        "word": "whistleblower",
+        "matching": 0.98
+    },
+    {
+        "word": "protection",
+        "matching": 0.97
+    },
+    {
+        "word": "data",
+        "matching": 0.95
+    },
+    {
+        "word": "retaliation",
+        "matching": 0.96
+    },
+    {
+        "word": "compliance",
+        "matching": 0.95
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.96
+    },
+    {
+        "word": "analysis",
+        "matching": 0.94
+    },
+    {
+        "word": "followup",
+        "matching": 0.94
+    },
+    {
+        "word": "investigation",
+        "matching": 0.94
+    },
+    {
+        "word": "regulation",
+        "matching": 0.93
+    },
+    {
+        "word": "register",
+        "matching": 0.93
+    },
+    {
+        "word": "department",
+        "matching": 0.93
+    },
+    {
+        "word": "feedback",
+        "matching": 0.92
+    },
+    {
+        "word": "action",
+        "matching": 0.92
+    },
+    {
+        "word": "illegal",
+        "matching": 0.92
+    },
+    {
+        "word": "violation",
+        "matching": 0.95
+    },
+    {
+        "word": "audit",
+        "matching": 0.91
+    },
+    {
+        "word": "corruption",
+        "matching": 0.91
+    },
+    {
+        "word": "risk",
+        "matching": 0.90
+    },
+    {
+        "word": "control",
+        "matching": 0.90
+    },
+    {
+        "word": "security",
+        "matching": 0.90
+    },
+    {
+        "word": "privacy",
+        "matching": 0.90
+    },
+    {
+        "word": "system",
+        "matching": 0.89
+    },
+    {
+        "word": "policy",
+        "matching": 0.89
+    },
+    {
+        "word": "evidence",
+        "matching": 0.89
+    },
+    {
+        "word": "authority",
+        "matching": 0.89
+    },
+    {
+        "word": "disclosure",
+        "matching": 0.88
+    },
+    {
+        "word": "member",
+        "matching": 0.88
+    },
+    {
+        "word": "employee",
+        "matching": 0.88
+    },
+    {
+        "word": "report",
+        "matching": 0.97
+    },
+    {
+        "word": "internal",
+        "matching": 0.96
+    }
+]

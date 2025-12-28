@@ -1,0 +1,131 @@
+
+[
+    {
+        "word": "monitoring",
+        "matching": 0.95
+    },
+    {
+        "word": "backup",
+        "matching": 0.95
+    },
+    {
+        "word": "ha",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.95
+    },
+    {
+        "word": "support",
+        "matching": 0.95
+    },
+    {
+        "word": "incident",
+        "matching": 0.95
+    },
+    {
+        "word": "sla",
+        "matching": 0.95
+    },
+    {
+        "word": "access",
+        "matching": 0.95
+    },
+    {
+        "word": "transition",
+        "matching": 0.95
+    },
+    {
+        "word": "configuration",
+        "matching": 0.95
+    },
+    {
+        "word": "knowledge",
+        "matching": 0.95
+    },
+    {
+        "word": "certificates",
+        "matching": 0.95
+    },
+    {
+        "word": "dr",
+        "matching": 0.95
+    },
+    {
+        "word": "aws",
+        "matching": 0.95
+    },
+    {
+        "word": "interface",
+        "matching": 0.9
+    },
+    {
+        "word": "deployment",
+        "matching": 0.9
+    },
+    {
+        "word": "environment",
+        "matching": 0.9
+    },
+    {
+        "word": "alerts",
+        "matching": 0.9
+    },
+    {
+        "word": "logs",
+        "matching": 0.9
+    },
+    {
+        "word": "testing",
+        "matching": 0.9
+    },
+    {
+        "word": "license",
+        "matching": 0.9
+    },
+    {
+        "word": "contingency",
+        "matching": 0.9
+    },
+    {
+        "word": "escalation",
+        "matching": 0.9
+    },
+    {
+        "word": "change",
+        "matching": 0.9
+    },
+    {
+        "word": "validation",
+        "matching": 0.9
+    },
+    {
+        "word": "architecture",
+        "matching": 0.9
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.9
+    },
+    {
+        "word": "planning",
+        "matching": 0.9
+    },
+    {
+        "word": "audit",
+        "matching": 0.9
+    },
+    {
+        "word": "recovery",
+        "matching": 0.9
+    },
+    {
+        "word": "continuity",
+        "matching": 0.9
+    },
+    {
+        "word": "policy",
+        "matching": 0.9
+    }
+]

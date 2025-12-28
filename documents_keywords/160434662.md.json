@@ -1,0 +1,155 @@
+
+[
+    {
+        "word": "issue",
+        "matching": 0.98
+    },
+    {
+        "word": "version",
+        "matching": 0.97
+    },
+    {
+        "word": "product",
+        "matching": 0.95
+    },
+    {
+        "word": "customer",
+        "matching": 0.95
+    },
+    {
+        "word": "support",
+        "matching": 0.95
+    },
+    {
+        "word": "fix",
+        "matching": 0.95
+    },
+    {
+        "word": "upgrade",
+        "matching": 0.95
+    },
+    {
+        "word": "delivery",
+        "matching": 0.93
+    },
+    {
+        "word": "ticket",
+        "matching": 0.93
+    },
+    {
+        "word": "status",
+        "matching": 0.92
+    },
+    {
+        "word": "project",
+        "matching": 0.92
+    },
+    {
+        "word": "planning",
+        "matching": 0.90
+    },
+    {
+        "word": "team",
+        "matching": 0.90
+    },
+    {
+        "word": "negotiation",
+        "matching": 0.88
+    },
+    {
+        "word": "consensus",
+        "matching": 0.87
+    },
+    {
+        "word": "priority",
+        "matching": 0.87
+    },
+    {
+        "word": "backlog",
+        "matching": 0.85
+    },
+    {
+        "word": "verification",
+        "matching": 0.85
+    },
+    {
+        "word": "tests",
+        "matching": 0.83
+    },
+    {
+        "word": "approval",
+        "matching": 0.82
+    },
+    {
+        "word": "policy",
+        "matching": 0.80
+    },
+    {
+        "word": "review",
+        "matching": 0.80
+    },
+    {
+        "word": "owner",
+        "matching": 0.78
+    },
+    {
+        "word": "author",
+        "matching": 0.77
+    },
+    {
+        "word": "information",
+        "matching": 0.75
+    },
+    {
+        "word": "examples",
+        "matching": 0.73
+    },
+    {
+        "word": "effective",
+        "matching": 0.70
+    },
+    {
+        "word": "link",
+        "matching": 0.70
+    },
+    {
+        "word": "report",
+        "matching": 0.68
+    },
+    {
+        "word": "decision",
+        "matching": 0.67
+    },
+    {
+        "word": "schedule",
+        "matching": 0.65
+    },
+    {
+        "word": "lifecycle",
+        "matching": 0.65
+    },
+    {
+        "word": "company",
+        "matching": 0.63
+    },
+    {
+        "word": "update",
+        "matching": 0.60
+    },
+    {
+        "word": "move",
+        "matching": 0.60
+    },
+    {
+        "word": "change",
+        "matching": 0.58
+    },
+    {
+        "word": "fill",
+        "matching": 0.55
+    },
+    {
+        "word": "implementation",
+        "matching": 0.53
+    }
+]

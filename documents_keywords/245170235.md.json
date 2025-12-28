@@ -1,0 +1,131 @@
+
+[
+    {
+        "word": "support",
+        "matching": 0.95
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "version",
+        "matching": 0.95
+    },
+    {
+        "word": "compatibility",
+        "matching": 0.95
+    },
+    {
+        "word": "release",
+        "matching": 0.90
+    },
+    {
+        "word": "test",
+        "matching": 0.90
+    },
+    {
+        "word": "fix",
+        "matching": 0.90
+    },
+    {
+        "word": "communication",
+        "matching": 0.85
+    },
+    {
+        "word": "customer",
+        "matching": 0.85
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.95
+    },
+    {
+        "word": "minor",
+        "matching": 0.95
+    },
+    {
+        "word": "application",
+        "matching": 0.85
+    },
+    {
+        "word": "schedule",
+        "matching": 0.75
+    },
+    {
+        "word": "track",
+        "matching": 0.80
+    },
+    {
+        "word": "update",
+        "matching": 0.95
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.80
+    },
+    {
+        "word": "beta",
+        "matching": 0.75
+    },
+    {
+        "word": "resource",
+        "matching": 0.70
+    },
+    {
+        "word": "team",
+        "matching": 0.80
+    },
+    {
+        "word": "issue",
+        "matching": 0.80
+    },
+    {
+        "word": "security",
+        "matching": 0.85
+    },
+    {
+        "word": "risk",
+        "matching": 0.80
+    },
+    {
+        "word": "control",
+        "matching": 0.80
+    },
+    {
+        "word": "process",
+        "matching": 0.80
+    },
+    {
+        "word": "documentation",
+        "matching": 0.75
+    },
+    {
+        "word": "change",
+        "matching": 0.75
+    },
+    {
+        "word": "audit",
+        "matching": 0.70
+    },
+    {
+        "word": "compliance",
+        "matching": 0.85
+    },
+    {
+        "word": "standard",
+        "matching": 0.80
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.80
+    },
+    {
+        "word": "incident",
+        "matching": 0.75
+    },
+    {
+        "word": "management",
+        "matching": 0.85
+    }
+]

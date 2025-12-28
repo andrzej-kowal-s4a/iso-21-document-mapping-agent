@@ -1,0 +1,147 @@
+
+[
+    {
+        "word": "onboarding",
+        "matching": 0.98
+    },
+    {
+        "word": "hr",
+        "matching": 0.97
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "procedure",
+        "matching": 0.95
+    },
+    {
+        "word": "employee",
+        "matching": 0.95
+    },
+    {
+        "word": "contract",
+        "matching": 0.94
+    },
+    {
+        "word": "ldap",
+        "matching": 0.94
+    },
+    {
+        "word": "gdpr",
+        "matching": 0.93
+    },
+    {
+        "word": "training",
+        "matching": 0.92
+    },
+    {
+        "word": "security",
+        "matching": 0.92
+    },
+    {
+        "word": "identity",
+        "matching": 0.91
+    },
+    {
+        "word": "compliance",
+        "matching": 0.91
+    },
+    {
+        "word": "account",
+        "matching": 0.90
+    },
+    {
+        "word": "documentation",
+        "matching": 0.90
+    },
+    {
+        "word": "access",
+        "matching": 0.89
+    },
+    {
+        "word": "software",
+        "matching": 0.89
+    },
+    {
+        "word": "backup",
+        "matching": 0.88
+    },
+    {
+        "word": "audit",
+        "matching": 0.88
+    },
+    {
+        "word": "risk",
+        "matching": 0.87
+    },
+    {
+        "word": "control",
+        "matching": 0.87
+    },
+    {
+        "word": "password",
+        "matching": 0.87
+    },
+    {
+        "word": "role",
+        "matching": 0.86
+    },
+    {
+        "word": "meeting",
+        "matching": 0.86
+    },
+    {
+        "word": "encryption",
+        "matching": 0.85
+    },
+    {
+        "word": "group",
+        "matching": 0.85
+    },
+    {
+        "word": "system",
+        "matching": 0.85
+    },
+    {
+        "word": "data",
+        "matching": 0.84
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.84
+    },
+    {
+        "word": "incident",
+        "matching": 0.83
+    },
+    {
+        "word": "review",
+        "matching": 0.83
+    },
+    {
+        "word": "configuration",
+        "matching": 0.82
+    },
+    {
+        "word": "log",
+        "matching": 0.82
+    },
+    {
+        "word": "authentication",
+        "matching": 0.81
+    },
+    {
+        "word": "cloud",
+        "matching": 0.81
+    },
+    {
+        "word": "regulation",
+        "matching": 0.80
+    },
+    {
+        "word": "policy",
+        "matching": 0.80
+    }
+]

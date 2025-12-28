@@ -1,0 +1,151 @@
+
+[
+    {
+        "word": "owner",
+        "matching": 1.0
+    },
+    {
+        "word": "issue",
+        "matching": 1.0
+    },
+    {
+        "word": "escalation",
+        "matching": 0.95
+    },
+    {
+        "word": "resolution",
+        "matching": 0.95
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.95
+    },
+    {
+        "word": "procedure",
+        "matching": 0.95
+    },
+    {
+        "word": "status",
+        "matching": 0.9
+    },
+    {
+        "word": "backlog",
+        "matching": 0.9
+    },
+    {
+        "word": "automation",
+        "matching": 0.9
+    },
+    {
+        "word": "support",
+        "matching": 0.9
+    },
+    {
+        "word": "customer",
+        "matching": 0.85
+    },
+    {
+        "word": "metrics",
+        "matching": 0.85
+    },
+    {
+        "word": "review",
+        "matching": 0.85
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.85
+    },
+    {
+        "word": "policy",
+        "matching": 0.85
+    },
+    {
+        "word": "team",
+        "matching": 0.8
+    },
+    {
+        "word": "agreement",
+        "matching": 0.8
+    },
+    {
+        "word": "absence",
+        "matching": 0.8
+    },
+    {
+        "word": "replacement",
+        "matching": 0.8
+    },
+    {
+        "word": "delay",
+        "matching": 0.75
+    },
+    {
+        "word": "environment",
+        "matching": 0.75
+    },
+    {
+        "word": "project",
+        "matching": 0.75
+    },
+    {
+        "word": "upgrade",
+        "matching": 0.75
+    },
+    {
+        "word": "verification",
+        "matching": 0.75
+    },
+    {
+        "word": "information",
+        "matching": 0.75
+    },
+    {
+        "word": "implementation",
+        "matching": 0.7
+    },
+    {
+        "word": "migration",
+        "matching": 0.7
+    },
+    {
+        "word": "company",
+        "matching": 0.7
+    },
+    {
+        "word": "effective",
+        "matching": 0.7
+    },
+    {
+        "word": "review_lifecycle",
+        "matching": 0.7
+    },
+    {
+        "word": "linked",
+        "matching": 0.7
+    },
+    {
+        "word": "standard",
+        "matching": 0.7
+    },
+    {
+        "word": "guidance",
+        "matching": 0.7
+    },
+    {
+        "word": "control",
+        "matching": 0.7
+    },
+    {
+        "word": "compliance",
+        "matching": 0.7
+    },
+    {
+        "word": "security",
+        "matching": 0.7
+    },
+    {
+        "word": "jira",
+        "matching": 0.7
+    }
+]

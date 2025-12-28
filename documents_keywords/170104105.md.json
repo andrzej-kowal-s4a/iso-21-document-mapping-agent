@@ -1,0 +1,143 @@
+
+[
+    {
+        "word": "network",
+        "matching": 0.98
+    },
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.97
+    },
+    {
+        "word": "access",
+        "matching": 0.96
+    },
+    {
+        "word": "configuration",
+        "matching": 0.95
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.95
+    },
+    {
+        "word": "firewall",
+        "matching": 0.95
+    },
+    {
+        "word": "vpn",
+        "matching": 0.95
+    },
+    {
+        "word": "integrity",
+        "matching": 0.95
+    },
+    {
+        "word": "availability",
+        "matching": 0.95
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.95
+    },
+    {
+        "word": "audit",
+        "matching": 0.94
+    },
+    {
+        "word": "segmentation",
+        "matching": 0.94
+    },
+    {
+        "word": "encryption",
+        "matching": 0.94
+    },
+    {
+        "word": "device",
+        "matching": 0.93
+    },
+    {
+        "word": "authentication",
+        "matching": 0.93
+    },
+    {
+        "word": "malware",
+        "matching": 0.93
+    },
+    {
+        "word": "dmz",
+        "matching": 0.93
+    },
+    {
+        "word": "vulnerability",
+        "matching": 0.92
+    },
+    {
+        "word": "backup",
+        "matching": 0.92
+    },
+    {
+        "word": "acls",
+        "matching": 0.92
+    },
+    {
+        "word": "logging",
+        "matching": 0.92
+    },
+    {
+        "word": "ips",
+        "matching": 0.92
+    },
+    {
+        "word": "ids",
+        "matching": 0.92
+    },
+    {
+        "word": "snmp",
+        "matching": 0.91
+    },
+    {
+        "word": "remote",
+        "matching": 0.91
+    },
+    {
+        "word": "wireless",
+        "matching": 0.91
+    },
+    {
+        "word": "routers",
+        "matching": 0.91
+    },
+    {
+        "word": "switches",
+        "matching": 0.91
+    },
+    {
+        "word": "certificates",
+        "matching": 0.90
+    },
+    {
+        "word": "hardening",
+        "matching": 0.90
+    },
+    {
+        "word": "scanning",
+        "matching": 0.90
+    },
+    {
+        "word": "packet",
+        "matching": 0.89
+    },
+    {
+        "word": "anti-virus",
+        "matching": 0.89
+    },
+    {
+        "word": "syslog",
+        "matching": 0.89
+    }
+]

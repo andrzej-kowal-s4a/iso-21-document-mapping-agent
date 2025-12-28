@@ -1,0 +1,151 @@
+
+[
+    {
+        "word": "hardware",
+        "matching": 0.98
+    },
+    {
+        "word": "lifespan",
+        "matching": 0.95
+    },
+    {
+        "word": "procurement",
+        "matching": 0.95
+    },
+    {
+        "word": "replacement",
+        "matching": 0.95
+    },
+    {
+        "word": "disposal",
+        "matching": 0.93
+    },
+    {
+        "word": "lease",
+        "matching": 0.92
+    },
+    {
+        "word": "standards",
+        "matching": 0.92
+    },
+    {
+        "word": "policy",
+        "matching": 0.91
+    },
+    {
+        "word": "budgetary",
+        "matching": 0.90
+    },
+    {
+        "word": "review",
+        "matching": 0.90
+    },
+    {
+        "word": "peripherals",
+        "matching": 0.89
+    },
+    {
+        "word": "stock",
+        "matching": 0.89
+    },
+    {
+        "word": "request",
+        "matching": 0.88
+    },
+    {
+        "word": "cost",
+        "matching": 0.88
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.88
+    },
+    {
+        "word": "management",
+        "matching": 0.87
+    },
+    {
+        "word": "support",
+        "matching": 0.87
+    },
+    {
+        "word": "procedure",
+        "matching": 0.87
+    },
+    {
+        "word": "equipment",
+        "matching": 0.87
+    },
+    {
+        "word": "security",
+        "matching": 0.86
+    },
+    {
+        "word": "compliance",
+        "matching": 0.86
+    },
+    {
+        "word": "control",
+        "matching": 0.85
+    },
+    {
+        "word": "risk",
+        "matching": 0.85
+    },
+    {
+        "word": "audit",
+        "matching": 0.85
+    },
+    {
+        "word": "access",
+        "matching": 0.84
+    },
+    {
+        "word": "configuration",
+        "matching": 0.84
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.84
+    },
+    {
+        "word": "vulnerability",
+        "matching": 0.83
+    },
+    {
+        "word": "incident",
+        "matching": 0.83
+    },
+    {
+        "word": "policy",
+        "matching": 0.83
+    },
+    {
+        "word": "guideline",
+        "matching": 0.82
+    },
+    {
+        "word": "standard",
+        "matching": 0.82
+    },
+    {
+        "word": "assessment",
+        "matching": 0.82
+    },
+    {
+        "word": "framework",
+        "matching": 0.81
+    },
+    {
+        "word": "control",
+        "matching": 0.81
+    },
+    {
+        "word": "review",
+        "matching": 0.81
+    },
+    {
+        "word": "risk",
+        "matching": 0.81
+    }
+]

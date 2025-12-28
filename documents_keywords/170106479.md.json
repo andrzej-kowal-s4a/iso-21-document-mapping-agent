@@ -1,0 +1,171 @@
+
+[
+    {
+        "word": "compliance",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.97
+    },
+    {
+        "word": "regulation",
+        "matching": 0.97
+    },
+    {
+        "word": "law",
+        "matching": 0.96
+    },
+    {
+        "word": "obligation",
+        "matching": 0.95
+    },
+    {
+        "word": "standard",
+        "matching": 0.95
+    },
+    {
+        "word": "contractual",
+        "matching": 0.94
+    },
+    {
+        "word": "legislative",
+        "matching": 0.94
+    },
+    {
+        "word": "guideline",
+        "matching": 0.93
+    },
+    {
+        "word": "procedure",
+        "matching": 0.93
+    },
+    {
+        "word": "authorisation",
+        "matching": 0.92
+    },
+    {
+        "word": "licence",
+        "matching": 0.92
+    },
+    {
+        "word": "permit",
+        "matching": 0.92
+    },
+    {
+        "word": "litigation",
+        "matching": 0.91
+    },
+    {
+        "word": "penalty",
+        "matching": 0.91
+    },
+    {
+        "word": "damages",
+        "matching": 0.90
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.90
+    },
+    {
+        "word": "audit",
+        "matching": 0.89
+    },
+    {
+        "word": "risk",
+        "matching": 0.89
+    },
+    {
+        "word": "control",
+        "matching": 0.89
+    },
+    {
+        "word": "security",
+        "matching": 0.88
+    },
+    {
+        "word": "customer",
+        "matching": 0.88
+    },
+    {
+        "word": "internal",
+        "matching": 0.87
+    },
+    {
+        "word": "external",
+        "matching": 0.87
+    },
+    {
+        "word": "review",
+        "matching": 0.87
+    },
+    {
+        "word": "effective",
+        "matching": 0.86
+    },
+    {
+        "word": "version",
+        "matching": 0.86
+    },
+    {
+        "word": "subsidiary",
+        "matching": 0.85
+    },
+    {
+        "word": "affiliate",
+        "matching": 0.85
+    },
+    {
+        "word": "resource",
+        "matching": 0.85
+    },
+    {
+        "word": "opportunity",
+        "matching": 0.84
+    },
+    {
+        "word": "publicity",
+        "matching": 0.84
+    },
+    {
+        "word": "venture",
+        "matching": 0.83
+    },
+    {
+        "word": "detection",
+        "matching": 0.83
+    },
+    {
+        "word": "prevention",
+        "matching": 0.83
+    },
+    {
+        "word": "ethical",
+        "matching": 0.82
+    },
+    {
+        "word": "clause",
+        "matching": 0.82
+    },
+    {
+        "word": "amendment",
+        "matching": 0.82
+    },
+    {
+        "word": "request",
+        "matching": 0.81
+    },
+    {
+        "word": "change",
+        "matching": 0.81
+    },
+    {
+        "word": "representative",
+        "matching": 0.80
+    },
+    {
+        "word": "owner",
+        "matching": 0.80
+    }
+]

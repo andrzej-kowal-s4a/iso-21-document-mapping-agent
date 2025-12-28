@@ -1,0 +1,167 @@
+
+[
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "credentials",
+        "matching": 0.97
+    },
+    {
+        "word": "passwords",
+        "matching": 0.96
+    },
+    {
+        "word": "authentication",
+        "matching": 0.95
+    },
+    {
+        "word": "design",
+        "matching": 0.95
+    },
+    {
+        "word": "incident",
+        "matching": 0.94
+    },
+    {
+        "word": "policy",
+        "matching": 0.94
+    },
+    {
+        "word": "procedure",
+        "matching": 0.94
+    },
+    {
+        "word": "access",
+        "matching": 0.93
+    },
+    {
+        "word": "deployment",
+        "matching": 0.93
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.92
+    },
+    {
+        "word": "user",
+        "matching": 0.92
+    },
+    {
+        "word": "account",
+        "matching": 0.92
+    },
+    {
+        "word": "resource",
+        "matching": 0.91
+    },
+    {
+        "word": "software",
+        "matching": 0.91
+    },
+    {
+        "word": "project",
+        "matching": 0.91
+    },
+    {
+        "word": "personnel",
+        "matching": 0.90
+    },
+    {
+        "word": "management",
+        "matching": 0.90
+    },
+    {
+        "word": "customer",
+        "matching": 0.89
+    },
+    {
+        "word": "least",
+        "matching": 0.89
+    },
+    {
+        "word": "privilege",
+        "matching": 0.89
+    },
+    {
+        "word": "encryption",
+        "matching": 0.88
+    },
+    {
+        "word": "channel",
+        "matching": 0.88
+    },
+    {
+        "word": "version",
+        "matching": 0.88
+    },
+    {
+        "word": "control",
+        "matching": 0.87
+    },
+    {
+        "word": "systems",
+        "matching": 0.87
+    },
+    {
+        "word": "components",
+        "matching": 0.87
+    },
+    {
+        "word": "features",
+        "matching": 0.86
+    },
+    {
+        "word": "lifecycle",
+        "matching": 0.86
+    },
+    {
+        "word": "review",
+        "matching": 0.86
+    },
+    {
+        "word": "approval",
+        "matching": 0.85
+    },
+    {
+        "word": "database",
+        "matching": 0.85
+    },
+    {
+        "word": "integration",
+        "matching": 0.85
+    },
+    {
+        "word": "servers",
+        "matching": 0.85
+    },
+    {
+        "word": "applications",
+        "matching": 0.85
+    },
+    {
+        "word": "repository",
+        "matching": 0.84
+    },
+    {
+        "word": "placeholder",
+        "matching": 0.84
+    },
+    {
+        "word": "confluence",
+        "matching": 0.83
+    },
+    {
+        "word": "contract",
+        "matching": 0.83
+    },
+    {
+        "word": "communication",
+        "matching": 0.83
+    },
+    {
+        "word": "compliance",
+        "matching": 0.82
+    }
+]

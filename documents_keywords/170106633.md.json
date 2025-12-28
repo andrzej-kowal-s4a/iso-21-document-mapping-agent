@@ -1,0 +1,159 @@
+
+[
+    {
+        "word": "byod",
+        "matching": 0.98
+    },
+    {
+        "word": "device",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.97
+    },
+    {
+        "word": "policy",
+        "matching": 0.96
+    },
+    {
+        "word": "access",
+        "matching": 0.94
+    },
+    {
+        "word": "network",
+        "matching": 0.93
+    },
+    {
+        "word": "data",
+        "matching": 0.92
+    },
+    {
+        "word": "incident",
+        "matching": 0.91
+    },
+    {
+        "word": "authentication",
+        "matching": 0.9
+    },
+    {
+        "word": "compliance",
+        "matching": 0.89
+    },
+    {
+        "word": "software",
+        "matching": 0.88
+    },
+    {
+        "word": "vpn",
+        "matching": 0.87
+    },
+    {
+        "word": "encryption",
+        "matching": 0.87
+    },
+    {
+        "word": "antivirus",
+        "matching": 0.86
+    },
+    {
+        "word": "mobile",
+        "matching": 0.85
+    },
+    {
+        "word": "password",
+        "matching": 0.85
+    },
+    {
+        "word": "remote",
+        "matching": 0.85
+    },
+    {
+        "word": "malware",
+        "matching": 0.84
+    },
+    {
+        "word": "risk",
+        "matching": 0.83
+    },
+    {
+        "word": "control",
+        "matching": 0.82
+    },
+    {
+        "word": "configuration",
+        "matching": 0.82
+    },
+    {
+        "word": "firewall",
+        "matching": 0.81
+    },
+    {
+        "word": "application",
+        "matching": 0.8
+    },
+    {
+        "word": "update",
+        "matching": 0.8
+    },
+    {
+        "word": "privacy",
+        "matching": 0.79
+    },
+    {
+        "word": "forensic",
+        "matching": 0.78
+    },
+    {
+        "word": "bluetooth",
+        "matching": 0.77
+    },
+    {
+        "word": "nfc",
+        "matching": 0.76
+    },
+    {
+        "word": "certificate",
+        "matching": 0.75
+    },
+    {
+        "word": "audit",
+        "matching": 0.74
+    },
+    {
+        "word": "regulation",
+        "matching": 0.73
+    },
+    {
+        "word": "incident",
+        "matching": 0.72
+    },
+    {
+        "word": "user",
+        "matching": 0.71
+    },
+    {
+        "word": "backup",
+        "matching": 0.7
+    },
+    {
+        "word": "integrity",
+        "matching": 0.69
+    },
+    {
+        "word": "availability",
+        "matching": 0.68
+    },
+    {
+        "word": "risk",
+        "matching": 0.67
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.66
+    },
+    {
+        "word": "log",
+        "matching": 0.65
+    }
+]

@@ -1,0 +1,135 @@
+
+[
+    {
+        "word": "change",
+        "matching": 0.98
+    },
+    {
+        "word": "management",
+        "matching": 0.97
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "approval",
+        "matching": 0.95
+    },
+    {
+        "word": "review",
+        "matching": 0.95
+    },
+    {
+        "word": "policy",
+        "matching": 0.94
+    },
+    {
+        "word": "planning",
+        "matching": 0.94
+    },
+    {
+        "word": "implementation",
+        "matching": 0.93
+    },
+    {
+        "word": "documentation",
+        "matching": 0.93
+    },
+    {
+        "word": "security",
+        "matching": 0.93
+    },
+    {
+        "word": "evaluation",
+        "matching": 0.92
+    },
+    {
+        "word": "communication",
+        "matching": 0.92
+    },
+    {
+        "word": "process",
+        "matching": 0.92
+    },
+    {
+        "word": "authority",
+        "matching": 0.91
+    },
+    {
+        "word": "compliance",
+        "matching": 0.91
+    },
+    {
+        "word": "control",
+        "matching": 0.90
+    },
+    {
+        "word": "incident",
+        "matching": 0.90
+    },
+    {
+        "word": "testing",
+        "matching": 0.89
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.89
+    },
+    {
+        "word": "upgrade",
+        "matching": 0.89
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.88
+    },
+    {
+        "word": "architecture",
+        "matching": 0.88
+    },
+    {
+        "word": "nonconformity",
+        "matching": 0.88
+    },
+    {
+        "word": "governance",
+        "matching": 0.87
+    },
+    {
+        "word": "workflow",
+        "matching": 0.87
+    },
+    {
+        "word": "patch",
+        "matching": 0.87
+    },
+    {
+        "word": "board",
+        "matching": 0.86
+    },
+    {
+        "word": "audited",
+        "matching": 0.86
+    },
+    {
+        "word": "remediation",
+        "matching": 0.86
+    },
+    {
+        "word": "baseline",
+        "matching": 0.85
+    },
+    {
+        "word": "environment",
+        "matching": 0.85
+    },
+    {
+        "word": "rollback",
+        "matching": 0.85
+    },
+    {
+        "word": "advisory",
+        "matching": 0.85
+    }
+]

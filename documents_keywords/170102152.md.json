@@ -1,0 +1,151 @@
+
+[
+    {
+        "word": "data",
+        "matching": 0.95
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "protection",
+        "matching": 0.95
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.95
+    },
+    {
+        "word": "encryption",
+        "matching": 0.9
+    },
+    {
+        "word": "password",
+        "matching": 0.9
+    },
+    {
+        "word": "security",
+        "matching": 0.9
+    },
+    {
+        "word": "access",
+        "matching": 0.9
+    },
+    {
+        "word": "authentification",
+        "matching": 0.9
+    },
+    {
+        "word": "antivirus",
+        "matching": 0.85
+    },
+    {
+        "word": "software",
+        "matching": 0.85
+    },
+    {
+        "word": "hardware",
+        "matching": 0.85
+    },
+    {
+        "word": "incident",
+        "matching": 0.85
+    },
+    {
+        "word": "management",
+        "matching": 0.85
+    },
+    {
+        "word": "risk",
+        "matching": 0.85
+    },
+    {
+        "word": "audit",
+        "matching": 0.85
+    },
+    {
+        "word": "compliance",
+        "matching": 0.85
+    },
+    {
+        "word": "regulation",
+        "matching": 0.85
+    },
+    {
+        "word": "control",
+        "matching": 0.85
+    },
+    {
+        "word": "screen",
+        "matching": 0.8
+    },
+    {
+        "word": "token",
+        "matching": 0.8
+    },
+    {
+        "word": "log",
+        "matching": 0.8
+    },
+    {
+        "word": "device",
+        "matching": 0.8
+    },
+    {
+        "word": "email",
+        "matching": 0.8
+    },
+    {
+        "word": "document",
+        "matching": 0.8
+    },
+    {
+        "word": "user",
+        "matching": 0.8
+    },
+    {
+        "word": "system",
+        "matching": 0.8
+    },
+    {
+        "word": "account",
+        "matching": 0.8
+    },
+    {
+        "word": "administrator",
+        "matching": 0.8
+    },
+    {
+        "word": "privacy",
+        "matching": 0.8
+    },
+    {
+        "word": "storage",
+        "matching": 0.75
+    },
+    {
+        "word": "backup",
+        "matching": 0.75
+    },
+    {
+        "word": "monitor",
+        "matching": 0.75
+    },
+    {
+        "word": "printer",
+        "matching": 0.75
+    },
+    {
+        "word": "internet",
+        "matching": 0.75
+    },
+    {
+        "word": "communication",
+        "matching": 0.75
+    },
+    {
+        "word": "signature",
+        "matching": 0.75
+    }
+]

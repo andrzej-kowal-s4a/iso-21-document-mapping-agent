@@ -1,0 +1,167 @@
+
+[
+    {
+        "word": "classification",
+        "matching": 0.98
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.97
+    },
+    {
+        "word": "privacy",
+        "matching": 0.97
+    },
+    {
+        "word": "gdpr",
+        "matching": 0.95
+    },
+    {
+        "word": "personal",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.96
+    },
+    {
+        "word": "data",
+        "matching": 0.99
+    },
+    {
+        "word": "control",
+        "matching": 0.94
+    },
+    {
+        "word": "risk",
+        "matching": 0.93
+    },
+    {
+        "word": "policy",
+        "matching": 0.96
+    },
+    {
+        "word": "compliance",
+        "matching": 0.95
+    },
+    {
+        "word": "contractual",
+        "matching": 0.92
+    },
+    {
+        "word": "incident",
+        "matching": 0.91
+    },
+    {
+        "word": "sensitive",
+        "matching": 0.95
+    },
+    {
+        "word": "customer",
+        "matching": 0.93
+    },
+    {
+        "word": "processing",
+        "matching": 0.92
+    },
+    {
+        "word": "authorization",
+        "matching": 0.91
+    },
+    {
+        "word": "storage",
+        "matching": 0.90
+    },
+    {
+        "word": "transfer",
+        "matching": 0.90
+    },
+    {
+        "word": "disclosure",
+        "matching": 0.90
+    },
+    {
+        "word": "mitigation",
+        "matching": 0.89
+    },
+    {
+        "word": "integrity",
+        "matching": 0.89
+    },
+    {
+        "word": "availability",
+        "matching": 0.89
+    },
+    {
+        "word": "management",
+        "matching": 0.88
+    },
+    {
+        "word": "personnel",
+        "matching": 0.88
+    },
+    {
+        "word": "contractor",
+        "matching": 0.88
+    },
+    {
+        "word": "regulation",
+        "matching": 0.87
+    },
+    {
+        "word": "standard",
+        "matching": 0.87
+    },
+    {
+        "word": "guidelines",
+        "matching": 0.87
+    },
+    {
+        "word": "review",
+        "matching": 0.86
+    },
+    {
+        "word": "procedures",
+        "matching": 0.86
+    },
+    {
+        "word": "asset",
+        "matching": 0.86
+    },
+    {
+        "word": "level",
+        "matching": 0.85
+    },
+    {
+        "word": "handling",
+        "matching": 0.85
+    },
+    {
+        "word": "framework",
+        "matching": 0.85
+    },
+    {
+        "word": "organization",
+        "matching": 0.85
+    },
+    {
+        "word": "protection",
+        "matching": 0.94
+    },
+    {
+        "word": "employee",
+        "matching": 0.84
+    },
+    {
+        "word": "software",
+        "matching": 0.84
+    },
+    {
+        "word": "configuration",
+        "matching": 0.84
+    },
+    {
+        "word": "credential",
+        "matching": 0.93
+    }
+]

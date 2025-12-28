@@ -1,0 +1,151 @@
+
+[
+    {
+        "word": "policy",
+        "matching": 0.98
+    },
+    {
+        "word": "compliance",
+        "matching": 0.97
+    },
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "data",
+        "matching": 0.96
+    },
+    {
+        "word": "privacy",
+        "matching": 0.95
+    },
+    {
+        "word": "phishing",
+        "matching": 0.95
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.94
+    },
+    {
+        "word": "credentials",
+        "matching": 0.94
+    },
+    {
+        "word": "passwords",
+        "matching": 0.94
+    },
+    {
+        "word": "classification",
+        "matching": 0.93
+    },
+    {
+        "word": "risk",
+        "matching": 0.93
+    },
+    {
+        "word": "access",
+        "matching": 0.93
+    },
+    {
+        "word": "controls",
+        "matching": 0.92
+    },
+    {
+        "word": "audit",
+        "matching": 0.92
+    },
+    {
+        "word": "encryption",
+        "matching": 0.91
+    },
+    {
+        "word": "incident",
+        "matching": 0.91
+    },
+    {
+        "word": "asset",
+        "matching": 0.91
+    },
+    {
+        "word": "integrity",
+        "matching": 0.90
+    },
+    {
+        "word": "availability",
+        "matching": 0.90
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.90
+    },
+    {
+        "word": "policy",
+        "matching": 0.90
+    },
+    {
+        "word": "regulation",
+        "matching": 0.89
+    },
+    {
+        "word": "gdpr",
+        "matching": 0.89
+    },
+    {
+        "word": "resposibility",
+        "matching": 0.89
+    },
+    {
+        "word": "social",
+        "matching": 0.89
+    },
+    {
+        "word": "whistleblowing",
+        "matching": 0.88
+    },
+    {
+        "word": "remote",
+        "matching": 0.88
+    },
+    {
+        "word": "hardware",
+        "matching": 0.88
+    },
+    {
+        "word": "software",
+        "matching": 0.88
+    },
+    {
+        "word": "spam",
+        "matching": 0.87
+    },
+    {
+        "word": "copyright",
+        "matching": 0.87
+    },
+    {
+        "word": "harassment",
+        "matching": 0.87
+    },
+    {
+        "word": "disposal",
+        "matching": 0.87
+    },
+    {
+        "word": "wiping",
+        "matching": 0.86
+    },
+    {
+        "word": "obfuscation",
+        "matching": 0.86
+    },
+    {
+        "word": "hygiene",
+        "matching": 0.86
+    },
+    {
+        "word": "clean",
+        "matching": 0.85
+    }
+]

@@ -1,0 +1,195 @@
+
+[
+    {
+        "word": "Encryption",
+        "matching": 0.98
+    },
+    {
+        "word": "Cryptography",
+        "matching": 0.98
+    },
+    {
+        "word": "Policy",
+        "matching": 0.95
+    },
+    {
+        "word": "Data",
+        "matching": 0.95
+    },
+    {
+        "word": "Security",
+        "matching": 0.95
+    },
+    {
+        "word": "Algorithms",
+        "matching": 0.95
+    },
+    {
+        "word": "Keys",
+        "matching": 0.95
+    },
+    {
+        "word": "Management",
+        "matching": 0.95
+    },
+    {
+        "word": "Access",
+        "matching": 0.93
+    },
+    {
+        "word": "Backup",
+        "matching": 0.92
+    },
+    {
+        "word": "Auditing",
+        "matching": 0.92
+    },
+    {
+        "word": "Logging",
+        "matching": 0.92
+    },
+    {
+        "word": "Devices",
+        "matching": 0.92
+    },
+    {
+        "word": "Compliance",
+        "matching": 0.92
+    },
+    {
+        "word": "Symmetric",
+        "matching": 0.90
+    },
+    {
+        "word": "Asymmetric",
+        "matching": 0.90
+    },
+    {
+        "word": "Asymmetric",
+        "matching": 0.90
+    },
+    {
+        "word": "Rotation",
+        "matching": 0.90
+    },
+    {
+        "word": "Vendors",
+        "matching": 0.90
+    },
+    {
+        "word": "Contractors",
+        "matching": 0.90
+    },
+    {
+        "word": "Incident",
+        "matching": 0.90
+    },
+    {
+        "word": "FIPS",
+        "matching": 0.88
+    },
+    {
+        "word": "Repository",
+        "matching": 0.88
+    },
+    {
+        "word": "Storage",
+        "matching": 0.88
+    },
+    {
+        "word": "Protocols",
+        "matching": 0.88
+    },
+    {
+        "word": "Ciphers",
+        "matching": 0.88
+    },
+    {
+        "word": "VPN",
+        "matching": 0.88
+    },
+    {
+        "word": "Transmit",
+        "matching": 0.85
+    },
+    {
+        "word": "Disclosure",
+        "matching": 0.85
+    },
+    {
+        "word": "Integrity",
+        "matching": 0.85
+    },
+    {
+        "word": "Privileges",
+        "matching": 0.85
+    },
+    {
+        "word": "Revocation",
+        "matching": 0.85
+    },
+    {
+        "word": "SSSH",
+        "matching": 0.85
+    },
+    {
+        "word": "Passwords",
+        "matching": 0.85
+    },
+    {
+        "word": "Theft",
+        "matching": 0.83
+    },
+    {
+        "word": "Custody",
+        "matching": 0.83
+    },
+    {
+        "word": "BitLocker",
+        "matching": 0.83
+    },
+    {
+        "word": "FileVault",
+        "matching": 0.83
+    },
+    {
+        "word": "LUKS",
+        "matching": 0.83
+    },
+    {
+        "word": "AES",
+        "matching": 0.83
+    },
+    {
+        "word": "XTS",
+        "matching": 0.83
+    },
+    {
+        "word": "Linux",
+        "matching": 0.83
+    },
+    {
+        "word": "Windows",
+        "matching": 0.83
+    },
+    {
+        "word": "OSX",
+        "matching": 0.83
+    },
+    {
+        "word": "Mobile",
+        "matching": 0.80
+    },
+    {
+        "word": "Environment",
+        "matching": 0.80
+    },
+    {
+        "word": "Environment",
+        "matching": 0.80
+    },
+    {
+        "word": "Custodian",
+        "matching": 0.80
+    }
+]

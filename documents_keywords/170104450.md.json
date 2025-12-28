@@ -1,0 +1,163 @@
+
+[
+    {
+        "word": "monitoring",
+        "matching": 0.98
+    },
+    {
+        "word": "alert",
+        "matching": 0.97
+    },
+    {
+        "word": "threshold",
+        "matching": 0.95
+    },
+    {
+        "word": "configuration",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.93
+    },
+    {
+        "word": "impact",
+        "matching": 0.92
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.92
+    },
+    {
+        "word": "reaction",
+        "matching": 0.91
+    },
+    {
+        "word": "procedure",
+        "matching": 0.91
+    },
+    {
+        "word": "owner",
+        "matching": 0.90
+    },
+    {
+        "word": "ticket",
+        "matching": 0.90
+    },
+    {
+        "word": "service",
+        "matching": 0.89
+    },
+    {
+        "word": "description",
+        "matching": 0.89
+    },
+    {
+        "word": "environment",
+        "matching": 0.88
+    },
+    {
+        "word": "team",
+        "matching": 0.88
+    },
+    {
+        "word": "information",
+        "matching": 0.87
+    },
+    {
+        "word": "policy",
+        "matching": 0.87
+    },
+    {
+        "word": "compliance",
+        "matching": 0.87
+    },
+    {
+        "word": "review",
+        "matching": 0.86
+    },
+    {
+        "word": "control",
+        "matching": 0.86
+    },
+    {
+        "word": "audit",
+        "matching": 0.85
+    },
+    {
+        "word": "risk",
+        "matching": 0.85
+    },
+    {
+        "word": "documentation",
+        "matching": 0.85
+    },
+    {
+        "word": "access",
+        "matching": 0.84
+    },
+    {
+        "word": "incident",
+        "matching": 0.84
+    },
+    {
+        "word": "support",
+        "matching": 0.83
+    },
+    {
+        "word": "communication",
+        "matching": 0.83
+    },
+    {
+        "word": "management",
+        "matching": 0.82
+    },
+    {
+        "word": "administration",
+        "matching": 0.82
+    },
+    {
+        "word": "riskmanagement",
+        "matching": 0.81
+    },
+    {
+        "word": "availability",
+        "matching": 0.81
+    },
+    {
+        "word": "incidentmanagement",
+        "matching": 0.80
+    },
+    {
+        "word": "change",
+        "matching": 0.80
+    },
+    {
+        "word": "assessment",
+        "matching": 0.79
+    },
+    {
+        "word": "reviewlifecycle",
+        "matching": 0.79
+    },
+    {
+        "word": "incidentresponse",
+        "matching": 0.78
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.78
+    },
+    {
+        "word": "availabilitymanagement",
+        "matching": 0.77
+    },
+    {
+        "word": "incidentresolution",
+        "matching": 0.76
+    },
+    {
+        "word": "incidenttracking",
+        "matching": 0.75
+    }
+]

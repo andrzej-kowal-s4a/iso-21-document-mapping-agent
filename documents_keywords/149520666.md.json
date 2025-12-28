@@ -1,0 +1,127 @@
+
+[
+    {
+        "word": "offboarding",
+        "matching": 0.98
+    },
+    {
+        "word": "network",
+        "matching": 0.95
+    },
+    {
+        "word": "ldap",
+        "matching": 0.97
+    },
+    {
+        "word": "hardware",
+        "matching": 0.96
+    },
+    {
+        "word": "alarm",
+        "matching": 0.92
+    },
+    {
+        "word": "licenses",
+        "matching": 0.95
+    },
+    {
+        "word": "slack",
+        "matching": 0.94
+    },
+    {
+        "word": "jira",
+        "matching": 0.97
+    },
+    {
+        "word": "skype",
+        "matching": 0.93
+    },
+    {
+        "word": "tempo",
+        "matching": 0.92
+    },
+    {
+        "word": "bitdefender",
+        "matching": 0.94
+    },
+    {
+        "word": "aws",
+        "matching": 0.91
+    },
+    {
+        "word": "google",
+        "matching": 0.93
+    },
+    {
+        "word": "account",
+        "matching": 0.96
+    },
+    {
+        "word": "password",
+        "matching": 0.91
+    },
+    {
+        "word": "access",
+        "matching": 0.95
+    },
+    {
+        "word": "review",
+        "matching": 0.90
+    },
+    {
+        "word": "policy",
+        "matching": 0.89
+    },
+    {
+        "word": "authentication",
+        "matching": 0.88
+    },
+    {
+        "word": "authorization",
+        "matching": 0.88
+    },
+    {
+        "word": "audit",
+        "matching": 0.87
+    },
+    {
+        "word": "management",
+        "matching": 0.87
+    },
+    {
+        "word": "security",
+        "matching": 0.96
+    },
+    {
+        "word": "compliance",
+        "matching": 0.95
+    },
+    {
+        "word": "control",
+        "matching": 0.94
+    },
+    {
+        "word": "procedure",
+        "matching": 0.93
+    },
+    {
+        "word": "risk",
+        "matching": 0.92
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.91
+    },
+    {
+        "word": "integrity",
+        "matching": 0.90
+    },
+    {
+        "word": "availability",
+        "matching": 0.90
+    },
+    {
+        "word": "asset",
+        "matching": 0.89
+    }
+]

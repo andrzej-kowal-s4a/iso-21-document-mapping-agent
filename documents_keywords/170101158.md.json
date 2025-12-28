@@ -1,0 +1,159 @@
+
+[
+    {
+        "word": "disaster",
+        "matching": 0.98
+    },
+    {
+        "word": "recovery",
+        "matching": 0.98
+    },
+    {
+        "word": "plan",
+        "matching": 0.95
+    },
+    {
+        "word": "procedure",
+        "matching": 0.95
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "owner",
+        "matching": 0.90
+    },
+    {
+        "word": "author",
+        "matching": 0.90
+    },
+    {
+        "word": "approvals",
+        "matching": 0.85
+    },
+    {
+        "word": "effective",
+        "matching": 0.85
+    },
+    {
+        "word": "linked",
+        "matching": 0.85
+    },
+    {
+        "word": "review",
+        "matching": 0.90
+    },
+    {
+        "word": "lifecycle",
+        "matching": 0.85
+    },
+    {
+        "word": "company",
+        "matching": 0.85
+    },
+    {
+        "word": "version",
+        "matching": 0.85
+    },
+    {
+        "word": "standards",
+        "matching": 0.90
+    },
+    {
+        "word": "guidelines",
+        "matching": 0.90
+    },
+    {
+        "word": "details",
+        "matching": 0.80
+    },
+    {
+        "word": "services",
+        "matching": 0.80
+    },
+    {
+        "word": "security",
+        "matching": 0.95
+    },
+    {
+        "word": "compliance",
+        "matching": 0.95
+    },
+    {
+        "word": "controls",
+        "matching": 0.90
+    },
+    {
+        "word": "risk",
+        "matching": 0.85
+    },
+    {
+        "word": "management",
+        "matching": 0.85
+    },
+    {
+        "word": "incident",
+        "matching": 0.80
+    },
+    {
+        "word": "response",
+        "matching": 0.80
+    },
+    {
+        "word": "business",
+        "matching": 0.80
+    },
+    {
+        "word": "continuity",
+        "matching": 0.85
+    },
+    {
+        "word": "resilience",
+        "matching": 0.85
+    },
+    {
+        "word": "availability",
+        "matching": 0.85
+    },
+    {
+        "word": "integrity",
+        "matching": 0.85
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.85
+    },
+    {
+        "word": "iso27001",
+        "matching": 0.95
+    },
+    {
+        "word": "audit",
+        "matching": 0.80
+    },
+    {
+        "word": "documentation",
+        "matching": 0.80
+    },
+    {
+        "word": "framework",
+        "matching": 0.80
+    },
+    {
+        "word": "policy",
+        "matching": 0.90
+    },
+    {
+        "word": "implementation",
+        "matching": 0.80
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.75
+    },
+    {
+        "word": "update",
+        "matching": 0.75
+    }
+]

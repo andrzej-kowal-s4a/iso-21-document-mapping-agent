@@ -1,0 +1,139 @@
+
+[
+    {
+        "word": "license",
+        "matching": 0.98
+    },
+    {
+        "word": "tracking",
+        "matching": 0.97
+    },
+    {
+        "word": "update",
+        "matching": 0.96
+    },
+    {
+        "word": "procedure",
+        "matching": 0.95
+    },
+    {
+        "word": "expiration",
+        "matching": 0.95
+    },
+    {
+        "word": "notification",
+        "matching": 0.94
+    },
+    {
+        "word": "agreement",
+        "matching": 0.94
+    },
+    {
+        "word": "environment",
+        "matching": 0.93
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.92
+    },
+    {
+        "word": "renewal",
+        "matching": 0.92
+    },
+    {
+        "word": "stakeholder",
+        "matching": 0.91
+    },
+    {
+        "word": "upgrade",
+        "matching": 0.91
+    },
+    {
+        "word": "customer",
+        "matching": 0.90
+    },
+    {
+        "word": "logs",
+        "matching": 0.90
+    },
+    {
+        "word": "verification",
+        "matching": 0.89
+    },
+    {
+        "word": "policy",
+        "matching": 0.89
+    },
+    {
+        "word": "generator",
+        "matching": 0.88
+    },
+    {
+        "word": "request",
+        "matching": 0.88
+    },
+    {
+        "word": "deployment",
+        "matching": 0.87
+    },
+    {
+        "word": "support",
+        "matching": 0.87
+    },
+    {
+        "word": "owner",
+        "matching": 0.86
+    },
+    {
+        "word": "warning",
+        "matching": 0.86
+    },
+    {
+        "word": "error",
+        "matching": 0.85
+    },
+    {
+        "word": "conditions",
+        "matching": 0.85
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.84
+    },
+    {
+        "word": "restrictions",
+        "matching": 0.84
+    },
+    {
+        "word": "integrity",
+        "matching": 0.83
+    },
+    {
+        "word": "access",
+        "matching": 0.83
+    },
+    {
+        "word": "testing",
+        "matching": 0.82
+    },
+    {
+        "word": "development",
+        "matching": 0.82
+    },
+    {
+        "word": "consequences",
+        "matching": 0.81
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.81
+    },
+    {
+        "word": "control",
+        "matching": 0.80
+    },
+    {
+        "word": "audit",
+        "matching": 0.80
+    }
+]

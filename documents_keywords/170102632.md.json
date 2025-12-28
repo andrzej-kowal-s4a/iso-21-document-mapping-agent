@@ -1,0 +1,151 @@
+
+[
+    {
+        "word": "policy",
+        "matching": 0.98
+    },
+    {
+        "word": "procedure",
+        "matching": 0.97
+    },
+    {
+        "word": "standard",
+        "matching": 0.97
+    },
+    {
+        "word": "guidance",
+        "matching": 0.97
+    },
+    {
+        "word": "compliance",
+        "matching": 0.95
+    },
+    {
+        "word": "review",
+        "matching": 0.95
+    },
+    {
+        "word": "approval",
+        "matching": 0.94
+    },
+    {
+        "word": "training",
+        "matching": 0.93
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.93
+    },
+    {
+        "word": "implementation",
+        "matching": 0.92
+    },
+    {
+        "word": "author",
+        "matching": 0.92
+    },
+    {
+        "word": "owner",
+        "matching": 0.96
+    },
+    {
+        "word": "stakeholder",
+        "matching": 0.91
+    },
+    {
+        "word": "document",
+        "matching": 0.95
+    },
+    {
+        "word": "metadata",
+        "matching": 0.90
+    },
+    {
+        "word": "measurement",
+        "matching": 0.90
+    },
+    {
+        "word": "metrics",
+        "matching": 0.89
+    },
+    {
+        "word": "planning",
+        "matching": 0.89
+    },
+    {
+        "word": "change",
+        "matching": 0.89
+    },
+    {
+        "word": "process",
+        "matching": 0.91
+    },
+    {
+        "word": "management",
+        "matching": 0.88
+    },
+    {
+        "word": "quality",
+        "matching": 0.88
+    },
+    {
+        "word": "risk",
+        "matching": 0.87
+    },
+    {
+        "word": "control",
+        "matching": 0.87
+    },
+    {
+        "word": "communication",
+        "matching": 0.86
+    },
+    {
+        "word": "template",
+        "matching": 0.86
+    },
+    {
+        "word": "ticket",
+        "matching": 0.86
+    },
+    {
+        "word": "labeling",
+        "matching": 0.85
+    },
+    {
+        "word": "performance",
+        "matching": 0.85
+    },
+    {
+        "word": "publication",
+        "matching": 0.85
+    },
+    {
+        "word": "version",
+        "matching": 0.85
+    },
+    {
+        "word": "update",
+        "matching": 0.84
+    },
+    {
+        "word": "correction",
+        "matching": 0.84
+    },
+    {
+        "word": "correction",
+        "matching": 0.84
+    },
+    {
+        "word": "design",
+        "matching": 0.84
+    },
+    {
+        "word": "noncompliance",
+        "matching": 0.83
+    },
+    {
+        "word": "incident",
+        "matching": 0.83
+    }
+]

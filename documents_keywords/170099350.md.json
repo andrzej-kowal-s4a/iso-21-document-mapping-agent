@@ -1,0 +1,159 @@
+
+[
+    {
+        "word": "breach",
+        "matching": 0.98
+    },
+    {
+        "word": "notification",
+        "matching": 0.97
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "assessment",
+        "matching": 0.95
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.95
+    },
+    {
+        "word": "integrity",
+        "matching": 0.95
+    },
+    {
+        "word": "availability",
+        "matching": 0.95
+    },
+    {
+        "word": "supervisory",
+        "matching": 0.94
+    },
+    {
+        "word": "data",
+        "matching": 0.93
+    },
+    {
+        "word": "authority",
+        "matching": 0.93
+    },
+    {
+        "word": "controller",
+        "matching": 0.93
+    },
+    {
+        "word": "processor",
+        "matching": 0.92
+    },
+    {
+        "word": "individuals",
+        "matching": 0.92
+    },
+    {
+        "word": "protection",
+        "matching": 0.92
+    },
+    {
+        "word": "register",
+        "matching": 0.91
+    },
+    {
+        "word": "mitigation",
+        "matching": 0.91
+    },
+    {
+        "word": "remediation",
+        "matching": 0.90
+    },
+    {
+        "word": "learning",
+        "matching": 0.90
+    },
+    {
+        "word": "prevention",
+        "matching": 0.90
+    },
+    {
+        "word": "sensitive",
+        "matching": 0.90
+    },
+    {
+        "word": "measures",
+        "matching": 0.89
+    },
+    {
+        "word": "consequences",
+        "matching": 0.89
+    },
+    {
+        "word": "impact",
+        "matching": 0.89
+    },
+    {
+        "word": "categories",
+        "matching": 0.88
+    },
+    {
+        "word": "encryption",
+        "matching": 0.88
+    },
+    {
+        "word": "records",
+        "matching": 0.88
+    },
+    {
+        "word": "timeline",
+        "matching": 0.87
+    },
+    {
+        "word": "format",
+        "matching": 0.87
+    },
+    {
+        "word": "contact",
+        "matching": 0.87
+    },
+    {
+        "word": "effort",
+        "matching": 0.86
+    },
+    {
+        "word": "identification",
+        "matching": 0.86
+    },
+    {
+        "word": "vulnerability",
+        "matching": 0.86
+    },
+    {
+        "word": "injury",
+        "matching": 0.85
+    },
+    {
+        "word": "distress",
+        "matching": 0.85
+    },
+    {
+        "word": "humiliation",
+        "matching": 0.85
+    },
+    {
+        "word": "reputation",
+        "matching": 0.85
+    },
+    {
+        "word": "fraud",
+        "matching": 0.85
+    },
+    {
+        "word": "ticket",
+        "matching": 0.85
+    },
+    {
+        "word": "incident",
+        "matching": 0.85
+    }
+]

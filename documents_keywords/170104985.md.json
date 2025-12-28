@@ -1,0 +1,151 @@
+
+[
+    {
+        "word": "baseline",
+        "matching": 0.98
+    },
+    {
+        "word": "control",
+        "matching": 0.95
+    },
+    {
+        "word": "verification",
+        "matching": 0.95
+    },
+    {
+        "word": "approval",
+        "matching": 0.95
+    },
+    {
+        "word": "scope",
+        "matching": 0.95
+    },
+    {
+        "word": "change",
+        "matching": 0.93
+    },
+    {
+        "word": "meeting",
+        "matching": 0.92
+    },
+    {
+        "word": "status",
+        "matching": 0.92
+    },
+    {
+        "word": "participant",
+        "matching": 0.90
+    },
+    {
+        "word": "capacity",
+        "matching": 0.90
+    },
+    {
+        "word": "timeline",
+        "matching": 0.90
+    },
+    {
+        "word": "estimate",
+        "matching": 0.88
+    },
+    {
+        "word": "impact",
+        "matching": 0.87
+    },
+    {
+        "word": "plan",
+        "matching": 0.85
+    },
+    {
+        "word": "project",
+        "matching": 0.85
+    },
+    {
+        "word": "agenda",
+        "matching": 0.83
+    },
+    {
+        "word": "reminder",
+        "matching": 0.82
+    },
+    {
+        "word": "draft",
+        "matching": 0.82
+    },
+    {
+        "word": "role",
+        "matching": 0.80
+    },
+    {
+        "word": "moderator",
+        "matching": 0.80
+    },
+    {
+        "word": "page",
+        "matching": 0.78
+    },
+    {
+        "word": "information",
+        "matching": 0.77
+    },
+    {
+        "word": "online",
+        "matching": 0.75
+    },
+    {
+        "word": "offline",
+        "matching": 0.75
+    },
+    {
+        "word": "explanation",
+        "matching": 0.73
+    },
+    {
+        "word": "end",
+        "matching": 0.70
+    },
+    {
+        "word": "date",
+        "matching": 0.68
+    },
+    {
+        "word": "week",
+        "matching": 0.65
+    },
+    {
+        "word": "call",
+        "matching": 0.65
+    },
+    {
+        "word": "confluence",
+        "matching": 0.63
+    },
+    {
+        "word": "request",
+        "matching": 0.60
+    },
+    {
+        "word": "table",
+        "matching": 0.58
+    },
+    {
+        "word": "owner",
+        "matching": 0.55
+    },
+    {
+        "word": "rule",
+        "matching": 0.55
+    },
+    {
+        "word": "rule",
+        "matching": 0.55
+    },
+    {
+        "word": "template",
+        "matching": 0.53
+    },
+    {
+        "word": "duration",
+        "matching": 0.50
+    }
+]

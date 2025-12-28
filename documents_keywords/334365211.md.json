@@ -1,0 +1,195 @@
+
+[
+    {
+        "word": "insurance",
+        "matching": 0.95
+    },
+    {
+        "word": "equipment",
+        "matching": 0.95
+    },
+    {
+        "word": "device",
+        "matching": 0.95
+    },
+    {
+        "word": "filter",
+        "matching": 0.9
+    },
+    {
+        "word": "list",
+        "matching": 0.9
+    },
+    {
+        "word": "funding",
+        "matching": 0.9
+    },
+    {
+        "word": "leasing",
+        "matching": 0.9
+    },
+    {
+        "word": "replacement",
+        "matching": 0.85
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.85
+    },
+    {
+        "word": "asset",
+        "matching": 0.85
+    },
+    {
+        "word": "procedure",
+        "matching": 0.85
+    },
+    {
+        "word": "policy",
+        "matching": 0.85
+    },
+    {
+        "word": "review",
+        "matching": 0.8
+    },
+    {
+        "word": "security",
+        "matching": 0.8
+    },
+    {
+        "word": "control",
+        "matching": 0.8
+    },
+    {
+        "word": "compliance",
+        "matching": 0.8
+    },
+    {
+        "word": "audit",
+        "matching": 0.75
+    },
+    {
+        "word": "risk",
+        "matching": 0.75
+    },
+    {
+        "word": "management",
+        "matching": 0.75
+    },
+    {
+        "word": "update",
+        "matching": 0.75
+    },
+    {
+        "word": "report",
+        "matching": 0.75
+    },
+    {
+        "word": "documentation",
+        "matching": 0.75
+    },
+    {
+        "word": "access",
+        "matching": 0.7
+    },
+    {
+        "word": "configuration",
+        "matching": 0.7
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.7
+    },
+    {
+        "word": "record",
+        "matching": 0.7
+    },
+    {
+        "word": "inventory",
+        "matching": 0.7
+    },
+    {
+        "word": "assessment",
+        "matching": 0.7
+    },
+    {
+        "word": "evaluation",
+        "matching": 0.7
+    },
+    {
+        "word": "verification",
+        "matching": 0.7
+    },
+    {
+        "word": "validation",
+        "matching": 0.7
+    },
+    {
+        "word": "standard",
+        "matching": 0.7
+    },
+    {
+        "word": "guidance",
+        "matching": 0.7
+    },
+    {
+        "word": "guideline",
+        "matching": 0.7
+    },
+    {
+        "word": "framework",
+        "matching": 0.7
+    },
+    {
+        "word": "process",
+        "matching": 0.7
+    },
+    {
+        "word": "workflow",
+        "matching": 0.7
+    },
+    {
+        "word": "task",
+        "matching": 0.7
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.7
+    },
+    {
+        "word": "role",
+        "matching": 0.7
+    },
+    {
+        "word": "approval",
+        "matching": 0.7
+    },
+    {
+        "word": "owner",
+        "matching": 0.7
+    },
+    {
+        "word": "author",
+        "matching": 0.7
+    },
+    {
+        "word": "effective",
+        "matching": 0.7
+    },
+    {
+        "word": "lifecycle",
+        "matching": 0.7
+    },
+    {
+        "word": "review",
+        "matching": 0.7
+    },
+    {
+        "word": "period",
+        "matching": 0.7
+    },
+    {
+        "word": "date",
+        "matching": 0.7
+    }
+]

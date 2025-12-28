@@ -1,0 +1,167 @@
+
+[
+    {
+        "word": "audit",
+        "matching": 0.98
+    },
+    {
+        "word": "compliance",
+        "matching": 0.97
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "iso27001",
+        "matching": 0.99
+    },
+    {
+        "word": "controls",
+        "matching": 0.96
+    },
+    {
+        "word": "findings",
+        "matching": 0.95
+    },
+    {
+        "word": "documentation",
+        "matching": 0.94
+    },
+    {
+        "word": "remediation",
+        "matching": 0.94
+    },
+    {
+        "word": "evidence",
+        "matching": 0.93
+    },
+    {
+        "word": "nonconformities",
+        "matching": 0.96
+    },
+    {
+        "word": "improvement",
+        "matching": 0.92
+    },
+    {
+        "word": "management",
+        "matching": 0.91
+    },
+    {
+        "word": "review",
+        "matching": 0.92
+    },
+    {
+        "word": "planning",
+        "matching": 0.90
+    },
+    {
+        "word": "competence",
+        "matching": 0.89
+    },
+    {
+        "word": "tracking",
+        "matching": 0.89
+    },
+    {
+        "word": "jira",
+        "matching": 0.88
+    },
+    {
+        "word": "mitigation",
+        "matching": 0.88
+    },
+    {
+        "word": "objectivity",
+        "matching": 0.87
+    },
+    {
+        "word": "frequency",
+        "matching": 0.86
+    },
+    {
+        "word": "responsibilities",
+        "matching": 0.86
+    },
+    {
+        "word": "scope",
+        "matching": 0.87
+    },
+    {
+        "word": "impartial",
+        "matching": 0.85
+    },
+    {
+        "word": "procedures",
+        "matching": 0.85
+    },
+    {
+        "word": "standards",
+        "matching": 0.85
+    },
+    {
+        "word": "records",
+        "matching": 0.84
+    },
+    {
+        "word": "closure",
+        "matching": 0.83
+    },
+    {
+        "word": "methodology",
+        "matching": 0.83
+    },
+    {
+        "word": "input",
+        "matching": 0.82
+    },
+    {
+        "word": "analysis",
+        "matching": 0.82
+    },
+    {
+        "word": "reporting",
+        "matching": 0.82
+    },
+    {
+        "word": "guidance",
+        "matching": 0.81
+    },
+    {
+        "word": "verification",
+        "matching": 0.81
+    },
+    {
+        "word": "continual",
+        "matching": 0.80
+    },
+    {
+        "word": "framework",
+        "matching": 0.80
+    },
+    {
+        "word": "processes",
+        "matching": 0.79
+    },
+    {
+        "word": "owner",
+        "matching": 0.79
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.78
+    },
+    {
+        "word": "periodic",
+        "matching": 0.78
+    },
+    {
+        "word": "articles",
+        "matching": 0.77
+    }
+]

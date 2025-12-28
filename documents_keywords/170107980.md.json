@@ -1,0 +1,103 @@
+
+[
+    {
+        "word": "vpn",
+        "matching": 0.95
+    },
+    {
+        "word": "access",
+        "matching": 0.95
+    },
+    {
+        "word": "authentication",
+        "matching": 0.95
+    },
+    {
+        "word": "policy",
+        "matching": 0.90
+    },
+    {
+        "word": "security",
+        "matching": 0.95
+    },
+    {
+        "word": "remote",
+        "matching": 0.90
+    },
+    {
+        "word": "software",
+        "matching": 0.85
+    },
+    {
+        "word": "ldap",
+        "matching": 0.95
+    },
+    {
+        "word": "configuration",
+        "matching": 0.85
+    },
+    {
+        "word": "installation",
+        "matching": 0.85
+    },
+    {
+        "word": "network",
+        "matching": 0.90
+    },
+    {
+        "word": "ip",
+        "matching": 0.90
+    },
+    {
+        "word": "username",
+        "matching": 0.90
+    },
+    {
+        "word": "password",
+        "matching": 0.90
+    },
+    {
+        "word": "client",
+        "matching": 0.85
+    },
+    {
+        "word": "subnet",
+        "matching": 0.85
+    },
+    {
+        "word": "machines",
+        "matching": 0.80
+    },
+    {
+        "word": "group",
+        "matching": 0.80
+    },
+    {
+        "word": "review",
+        "matching": 0.80
+    },
+    {
+        "word": "procedure",
+        "matching": 0.80
+    },
+    {
+        "word": "hostnames",
+        "matching": 0.80
+    },
+    {
+        "word": "destination",
+        "matching": 0.80
+    },
+    {
+        "word": "external",
+        "matching": 0.80
+    },
+    {
+        "word": "internal",
+        "matching": 0.80
+    },
+    {
+        "word": "connection",
+        "matching": 0.80
+    }
+]

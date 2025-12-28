@@ -1,0 +1,155 @@
+
+[
+    {
+        "word": "policy",
+        "matching": 0.98
+    },
+    {
+        "word": "compliance",
+        "matching": 0.97
+    },
+    {
+        "word": "exception",
+        "matching": 0.95
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "control",
+        "matching": 0.95
+    },
+    {
+        "word": "review",
+        "matching": 0.94
+    },
+    {
+        "word": "approval",
+        "matching": 0.93
+    },
+    {
+        "word": "procedure",
+        "matching": 0.93
+    },
+    {
+        "word": "standard",
+        "matching": 0.92
+    },
+    {
+        "word": "assessment",
+        "matching": 0.92
+    },
+    {
+        "word": "request",
+        "matching": 0.92
+    },
+    {
+        "word": "team",
+        "matching": 0.91
+    },
+    {
+        "word": "mitigating",
+        "matching": 0.91
+    },
+    {
+        "word": "repository",
+        "matching": 0.90
+    },
+    {
+        "word": "evaluation",
+        "matching": 0.90
+    },
+    {
+        "word": "criteria",
+        "matching": 0.89
+    },
+    {
+        "word": "denial",
+        "matching": 0.89
+    },
+    {
+        "word": "systems",
+        "matching": 0.89
+    },
+    {
+        "word": "data",
+        "matching": 0.89
+    },
+    {
+        "word": "stakeholders",
+        "matching": 0.88
+    },
+    {
+        "word": "contractors",
+        "matching": 0.88
+    },
+    {
+        "word": "subsidiary",
+        "matching": 0.87
+    },
+    {
+        "word": "affiliate",
+        "matching": 0.87
+    },
+    {
+        "word": "non-compliance",
+        "matching": 0.87
+    },
+    {
+        "word": "length",
+        "matching": 0.86
+    },
+    {
+        "word": "director",
+        "matching": 0.86
+    },
+    {
+        "word": "conditions",
+        "matching": 0.86
+    },
+    {
+        "word": "requirements",
+        "matching": 0.86
+    },
+    {
+        "word": "compensation",
+        "matching": 0.85
+    },
+    {
+        "word": "cc",
+        "matching": 0.85
+    },
+    {
+        "word": "format",
+        "matching": 0.85
+    },
+    {
+        "word": "template",
+        "matching": 0.85
+    },
+    {
+        "word": "user",
+        "matching": 0.85
+    },
+    {
+        "word": "value",
+        "matching": 0.84
+    },
+    {
+        "word": "business",
+        "matching": 0.84
+    },
+    {
+        "word": "projects",
+        "matching": 0.84
+    },
+    {
+        "word": "networks",
+        "matching": 0.84
+    },
+    {
+        "word": "products",
+        "matching": 0.84
+    }
+]

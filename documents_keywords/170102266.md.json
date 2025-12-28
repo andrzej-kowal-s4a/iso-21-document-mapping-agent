@@ -1,0 +1,163 @@
+
+[
+    {
+        "word": "bug",
+        "matching": 0.98
+    },
+    {
+        "word": "issue",
+        "matching": 0.98
+    },
+    {
+        "word": "fix",
+        "matching": 0.97
+    },
+    {
+        "word": "emergency",
+        "matching": 0.95
+    },
+    {
+        "word": "patching",
+        "matching": 0.95
+    },
+    {
+        "word": "version",
+        "matching": 0.93
+    },
+    {
+        "word": "product",
+        "matching": 0.92
+    },
+    {
+        "word": "customer",
+        "matching": 0.92
+    },
+    {
+        "word": "project",
+        "matching": 0.91
+    },
+    {
+        "word": "impact",
+        "matching": 0.90
+    },
+    {
+        "word": "safety",
+        "matching": 0.89
+    },
+    {
+        "word": "release",
+        "matching": 0.89
+    },
+    {
+        "word": "status",
+        "matching": 0.88
+    },
+    {
+        "word": "decision",
+        "matching": 0.87
+    },
+    {
+        "word": "support",
+        "matching": 0.87
+    },
+    {
+        "word": "ticket",
+        "matching": 0.87
+    },
+    {
+        "word": "priority",
+        "matching": 0.86
+    },
+    {
+        "word": "procedure",
+        "matching": 0.86
+    },
+    {
+        "word": "upgrade",
+        "matching": 0.85
+    },
+    {
+        "word": "hotfix",
+        "matching": 0.85
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.85
+    },
+    {
+        "word": "notification",
+        "matching": 0.84
+    },
+    {
+        "word": "comment",
+        "matching": 0.84
+    },
+    {
+        "word": "discussion",
+        "matching": 0.83
+    },
+    {
+        "word": "risk",
+        "matching": 0.83
+    },
+    {
+        "word": "deadline",
+        "matching": 0.82
+    },
+    {
+        "word": "approval",
+        "matching": 0.82
+    },
+    {
+        "word": "review",
+        "matching": 0.81
+    },
+    {
+        "word": "planning",
+        "matching": 0.81
+    },
+    {
+        "word": "policy",
+        "matching": 0.80
+    },
+    {
+        "word": "rejection",
+        "matching": 0.80
+    },
+    {
+        "word": "email",
+        "matching": 0.79
+    },
+    {
+        "word": "filtering",
+        "matching": 0.78
+    },
+    {
+        "word": "superior",
+        "matching": 0.78
+    },
+    {
+        "word": "functionality",
+        "matching": 0.77
+    },
+    {
+        "word": "downtime",
+        "matching": 0.77
+    },
+    {
+        "word": "hierarchy",
+        "matching": 0.76
+    },
+    {
+        "word": "knowledge",
+        "matching": 0.76
+    },
+    {
+        "word": "team",
+        "matching": 0.75
+    },
+    {
+        "word": "field",
+        "matching": 0.75
+    }
+]

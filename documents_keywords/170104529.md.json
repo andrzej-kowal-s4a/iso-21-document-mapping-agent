@@ -1,0 +1,119 @@
+
+[
+    {
+        "word": "access",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "risk",
+        "matching": 0.92
+    },
+    {
+        "word": "monitoring",
+        "matching": 0.90
+    },
+    {
+        "word": "hazard",
+        "matching": 0.88
+    },
+    {
+        "word": "supervisor",
+        "matching": 0.87
+    },
+    {
+        "word": "damage",
+        "matching": 0.85
+    },
+    {
+        "word": "policy",
+        "matching": 0.93
+    },
+    {
+        "word": "compliance",
+        "matching": 0.96
+    },
+    {
+        "word": "control",
+        "matching": 0.89
+    },
+    {
+        "word": "facility",
+        "matching": 0.85
+    },
+    {
+        "word": "audit",
+        "matching": 0.80
+    },
+    {
+        "word": "incident",
+        "matching": 0.82
+    },
+    {
+        "word": "procedure",
+        "matching": 0.97
+    },
+    {
+        "word": "review",
+        "matching": 0.84
+    },
+    {
+        "word": "staff",
+        "matching": 0.86
+    },
+    {
+        "word": "report",
+        "matching": 0.83
+    },
+    {
+        "word": "regulation",
+        "matching": 0.81
+    },
+    {
+        "word": "safety",
+        "matching": 0.95
+    },
+    {
+        "word": "environment",
+        "matching": 0.87
+    },
+    {
+        "word": "riskassessment",
+        "matching": 0.86
+    },
+    {
+        "word": "training",
+        "matching": 0.78
+    },
+    {
+        "word": "vulnerability",
+        "matching": 0.75
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.73
+    },
+    {
+        "word": "integrity",
+        "matching": 0.72
+    },
+    {
+        "word": "availability",
+        "matching": 0.71
+    },
+    {
+        "word": "incidentresponse",
+        "matching": 0.70
+    },
+    {
+        "word": "mitigation",
+        "matching": 0.69
+    },
+    {
+        "word": "screening",
+        "matching": 0.68
+    }
+]

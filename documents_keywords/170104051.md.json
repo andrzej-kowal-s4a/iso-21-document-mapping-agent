@@ -1,0 +1,147 @@
+
+[
+    {
+        "word": "incident",
+        "matching": 0.98
+    },
+    {
+        "word": "security",
+        "matching": 0.98
+    },
+    {
+        "word": "reporting",
+        "matching": 0.97
+    },
+    {
+        "word": "management",
+        "matching": 0.96
+    },
+    {
+        "word": "confidentiality",
+        "matching": 0.95
+    },
+    {
+        "word": "integrity",
+        "matching": 0.95
+    },
+    {
+        "word": "availability",
+        "matching": 0.95
+    },
+    {
+        "word": "response",
+        "matching": 0.94
+    },
+    {
+        "word": "notification",
+        "matching": 0.94
+    },
+    {
+        "word": "risk",
+        "matching": 0.93
+    },
+    {
+        "word": "breach",
+        "matching": 0.93
+    },
+    {
+        "word": "ticket",
+        "matching": 0.92
+    },
+    {
+        "word": "team",
+        "matching": 0.92
+    },
+    {
+        "word": "proactive",
+        "matching": 0.91
+    },
+    {
+        "word": "mitigation",
+        "matching": 0.91
+    },
+    {
+        "word": "system",
+        "matching": 0.90
+    },
+    {
+        "word": "environment",
+        "matching": 0.90
+    },
+    {
+        "word": "personal",
+        "matching": 0.89
+    },
+    {
+        "word": "data",
+        "matching": 0.89
+    },
+    {
+        "word": "policy",
+        "matching": 0.89
+    },
+    {
+        "word": "compliance",
+        "matching": 0.88
+    },
+    {
+        "word": "control",
+        "matching": 0.88
+    },
+    {
+        "word": "procedure",
+        "matching": 0.88
+    },
+    {
+        "word": "review",
+        "matching": 0.87
+    },
+    {
+        "word": "reviewer",
+        "matching": 0.87
+    },
+    {
+        "word": "owner",
+        "matching": 0.87
+    },
+    {
+        "word": "approval",
+        "matching": 0.86
+    },
+    {
+        "word": "accountability",
+        "matching": 0.86
+    },
+    {
+        "word": "penalty",
+        "matching": 0.85
+    },
+    {
+        "word": "contingency",
+        "matching": 0.85
+    },
+    {
+        "word": "plan",
+        "matching": 0.85
+    },
+    {
+        "word": "analysis",
+        "matching": 0.84
+    },
+    {
+        "word": "mitigate",
+        "matching": 0.84
+    },
+    {
+        "word": "closure",
+        "matching": 0.84
+    },
+    {
+        "word": "support",
+        "matching": 0.83
+    },
+    {
+        "word": "consultation",
+        "matching": 0.83
+    }
+]

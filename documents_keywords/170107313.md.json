@@ -1,0 +1,127 @@
+
+[
+    {
+        "word": "verification",
+        "matching": 0.95
+    },
+    {
+        "word": "approval",
+        "matching": 0.95
+    },
+    {
+        "word": "backup",
+        "matching": 0.95
+    },
+    {
+        "word": "decommission",
+        "matching": 0.95
+    },
+    {
+        "word": "environment",
+        "matching": 0.95
+    },
+    {
+        "word": "change",
+        "matching": 0.95
+    },
+    {
+        "word": "resources",
+        "matching": 0.95
+    },
+    {
+        "word": "access",
+        "matching": 0.9
+    },
+    {
+        "word": "review",
+        "matching": 0.9
+    },
+    {
+        "word": "owner",
+        "matching": 0.9
+    },
+    {
+        "word": "ticket",
+        "matching": 0.9
+    },
+    {
+        "word": "admin",
+        "matching": 0.9
+    },
+    {
+        "word": "server",
+        "matching": 0.9
+    },
+    {
+        "word": "vCPU",
+        "matching": 0.9
+    },
+    {
+        "word": "RAM",
+        "matching": 0.9
+    },
+    {
+        "word": "workflow",
+        "matching": 0.85
+    },
+    {
+        "word": "SLA",
+        "matching": 0.85
+    },
+    {
+        "word": "SOA",
+        "matching": 0.85
+    },
+    {
+        "word": "expiration",
+        "matching": 0.85
+    },
+    {
+        "word": "cost",
+        "matching": 0.85
+    },
+    {
+        "word": "automation",
+        "matching": 0.85
+    },
+    {
+        "word": "report",
+        "matching": 0.85
+    },
+    {
+        "word": "policy",
+        "matching": 0.85
+    },
+    {
+        "word": "configuration",
+        "matching": 0.8
+    },
+    {
+        "word": "threading",
+        "matching": 0.8
+    },
+    {
+        "word": "core",
+        "matching": 0.8
+    },
+    {
+        "word": "core",
+        "matching": 0.8
+    },
+    {
+        "word": "vCPU",
+        "matching": 0.8
+    },
+    {
+        "word": "core",
+        "matching": 0.8
+    },
+    {
+        "word": "core",
+        "matching": 0.8
+    },
+    {
+        "word": "core",
+        "matching": 0.8
+    }
+]

@@ -1,0 +1,179 @@
+
+[
+    {
+        "word": "accounts",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.97
+    },
+    {
+        "word": "customers",
+        "matching": 0.96
+    },
+    {
+        "word": "review",
+        "matching": 0.95
+    },
+    {
+        "word": "limits",
+        "matching": 0.95
+    },
+    {
+        "word": "decommissioning",
+        "matching": 0.94
+    },
+    {
+        "word": "inactivation",
+        "matching": 0.94
+    },
+    {
+        "word": "access",
+        "matching": 0.93
+    },
+    {
+        "word": "request",
+        "matching": 0.93
+    },
+    {
+        "word": "communication",
+        "matching": 0.92
+    },
+    {
+        "word": "projects",
+        "matching": 0.92
+    },
+    {
+        "word": "transition",
+        "matching": 0.91
+    },
+    {
+        "word": "exceed",
+        "matching": 0.91
+    },
+    {
+        "word": "charge",
+        "matching": 0.90
+    },
+    {
+        "word": "offer",
+        "matching": 0.90
+    },
+    {
+        "word": "domains",
+        "matching": 0.89
+    },
+    {
+        "word": "login",
+        "matching": 0.89
+    },
+    {
+        "word": "coordinate",
+        "matching": 0.89
+    },
+    {
+        "word": "information",
+        "matching": 0.88
+    },
+    {
+        "word": "users",
+        "matching": 0.88
+    },
+    {
+        "word": "period",
+        "matching": 0.88
+    },
+    {
+        "word": "report",
+        "matching": 0.87
+    },
+    {
+        "word": "decide",
+        "matching": 0.87
+    },
+    {
+        "word": "schema",
+        "matching": 0.87
+    },
+    {
+        "word": "assign",
+        "matching": 0.86
+    },
+    {
+        "word": "active",
+        "matching": 0.86
+    },
+    {
+        "word": "weeks",
+        "matching": 0.86
+    },
+    {
+        "word": "process",
+        "matching": 0.85
+    },
+    {
+        "word": "months",
+        "matching": 0.85
+    },
+    {
+        "word": "support",
+        "matching": 0.85
+    },
+    {
+        "word": "company",
+        "matching": 0.84
+    },
+    {
+        "word": "version",
+        "matching": 0.84
+    },
+    {
+        "word": "owner",
+        "matching": 0.83
+    },
+    {
+        "word": "author",
+        "matching": 0.83
+    },
+    {
+        "word": "approvals",
+        "matching": 0.83
+    },
+    {
+        "word": "effective",
+        "matching": 0.82
+    },
+    {
+        "word": "lifecycle",
+        "matching": 0.82
+    },
+    {
+        "word": "change",
+        "matching": 0.81
+    },
+    {
+        "word": "charge",
+        "matching": 0.80
+    },
+    {
+        "word": "director",
+        "matching": 0.80
+    },
+    {
+        "word": "sales",
+        "matching": 0.79
+    },
+    {
+        "word": "marketing",
+        "matching": 0.79
+    },
+    {
+        "word": "project",
+        "matching": 0.78
+    },
+    {
+        "word": "admin",
+        "matching": 0.78
+    }
+]

@@ -1,0 +1,163 @@
+
+[
+    {
+        "word": "procedures",
+        "matching": 0.98
+    },
+    {
+        "word": "policy",
+        "matching": 0.95
+    },
+    {
+        "word": "control",
+        "matching": 0.97
+    },
+    {
+        "word": "compliance",
+        "matching": 0.96
+    },
+    {
+        "word": "risk",
+        "matching": 0.95
+    },
+    {
+        "word": "security",
+        "matching": 0.99
+    },
+    {
+        "word": "iso27001",
+        "matching": 0.97
+    },
+    {
+        "word": "audit",
+        "matching": 0.94
+    },
+    {
+        "word": "documentation",
+        "matching": 0.96
+    },
+    {
+        "word": "management",
+        "matching": 0.95
+    },
+    {
+        "word": "review",
+        "matching": 0.94
+    },
+    {
+        "word": "access",
+        "matching": 0.96
+    },
+    {
+        "word": "incident",
+        "matching": 0.93
+    },
+    {
+        "word": "response",
+        "matching": 0.92
+    },
+    {
+        "word": "maintenance",
+        "matching": 0.91
+    },
+    {
+        "word": "update",
+        "matching": 0.90
+    },
+    {
+        "word": "approval",
+        "matching": 0.92
+    },
+    {
+        "word": "standard",
+        "matching": 0.91
+    },
+    {
+        "word": "framework",
+        "matching": 0.90
+    },
+    {
+        "word": "process",
+        "matching": 0.95
+    },
+    {
+        "word": "guidance",
+        "matching": 0.89
+    },
+    {
+        "word": "role",
+        "matching": 0.88
+    },
+    {
+        "word": "responsibility",
+        "matching": 0.87
+    },
+    {
+        "word": "monitor",
+        "matching": 0.88
+    },
+    {
+        "word": "evaluate",
+        "matching": 0.87
+    },
+    {
+        "word": "measure",
+        "matching": 0.86
+    },
+    {
+        "word": "report",
+        "matching": 0.87
+    },
+    {
+        "word": "record",
+        "matching": 0.86
+    },
+    {
+        "word": "training",
+        "matching": 0.85
+    },
+    {
+        "word": "role-based",
+        "matching": 0.84
+    },
+    {
+        "word": "communication",
+        "matching": 0.83
+    },
+    {
+        "word": "change",
+        "matching": 0.85
+    },
+    {
+        "word": "version",
+        "matching": 0.84
+    },
+    {
+        "word": "reference",
+        "matching": 0.83
+    },
+    {
+        "word": "alignment",
+        "matching": 0.82
+    },
+    {
+        "word": "implementation",
+        "matching": 0.81
+    },
+    {
+        "word": "objective",
+        "matching": 0.80
+    },
+    {
+        "word": "objective",
+        "matching": 0.80
+    },
+    {
+        "word": "objective",
+        "matching": 0.80
+    },
+    {
+        "word": "objective",
+        "matching": 0.80
+    }
+]
