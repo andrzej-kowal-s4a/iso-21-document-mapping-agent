@@ -5,17 +5,17 @@ This script demonstrates how to use DocumentSelector to select relevant document
 for a specific ISO control by control ID (e.g., 5.1, 8.3, 8.15).
 
 Usage:
-    python execute_control_5_7.py 5.7
-    python execute_control_5_7.py 8.15
-    python execute_control_5_7.py 5.1
+    python execute_control.py 5.7
+    python execute_control.py 8.15
+    python execute_control.py 5.1
 """
 
 import argparse
 import logging
 import os
 import glob
-from DocumentSelector_class import DocumentSelector
-from document_selector_utils import (
+from app.selector.DocumentSelector_class import DocumentSelector
+from app.selector.document_selector_utils import (
     get_control_name_from_path,
     save_selected_documents,
 )
