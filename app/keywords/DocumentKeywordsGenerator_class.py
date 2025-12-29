@@ -1,4 +1,4 @@
-from ai_agent_utils import initialize_agent, print_agent_usage
+from app.utils.ai_agent import initialize_agent, print_agent_usage
 
 JSON_FORMAT = """
 [
