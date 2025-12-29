@@ -13,6 +13,7 @@ logger = logging.getLogger(__name__)
 # MODEL_NAME = "arn:aws:bedrock:eu-west-1:655604747460:inference-profile/eu.anthropic.claude-sonnet-4-5-20250929-v1:0"
 NOVA_2_OMNI = "global.amazon.nova-2-lite-v1:0"
 CLAUDE_3_7_SONNET = "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+CLAUDE_SONNET_4_5 = "us.anthropic.claude-sonnet-4-5-20250929-v1:0"
 
 MODEL_NAME = NOVA_2_OMNI
 
@@ -25,12 +26,12 @@ AWS_REGION = "us-east-1"  # US East (N. Virginia)
 # Note: Prices may vary by region and can change. Update these values as needed.
 BEDROCK_PRICING: Dict[str, Dict[str, float]] = {
     # Claude 3.7 Sonnet
-    "us.anthropic.claude-3-7-sonnet-20250219-v1:0": {
+    CLAUDE_3_7_SONNET: {
         "input": 0.003,  # $0.003 per 1000 input tokens ($3.00 per million)
         "output": 0.015,  # $0.015 per 1000 output tokens ($15.00 per million)
     },
     # Claude Sonnet 4.5 (inference profile)
-    "eu.anthropic.claude-sonnet-4-5-20250929-v1:0": {
+    CLAUDE_SONNET_4_5: {
         "input": 0.003,  # $0.003 per 1000 input tokens ($3.00 per million)
         "output": 0.015,  # $0.015 per 1000 output tokens ($15.00 per million)
     },
