@@ -6,24 +6,27 @@ import logging
 import os
 from typing import Dict, List
 
-from app.utils.ai_agent_utils import print_agent_usage
+from app.utils.ai_agent import (
+    print_agent_usage,
+    AWS_REGION,
+    CLAUDE_SONNET_4_5,
+)
 from app.selector.document_selector_utils import (
     extract_document_metadata,
     get_control_name_from_path,
     read_control_file,
     read_all_documents,
 )
-from strands import Agent
+from strands import Agent, tool
 from strands.models.bedrock import BedrockModel
+from strands_tools import shell
+from strands_tools import file_read
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Model configuration (matching ai_agent_utils)
-NOVA_2_OMNI = "global.amazon.nova-2-lite-v1:0"
-CLAUDE_3_7_SONNET = "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
-MODEL_NAME = CLAUDE_3_7_SONNET
-AWS_REGION = "us-east-1"
+
+MODEL_NAME = CLAUDE_SONNET_4_5
 
 OUTPUT_FORMAT = """
 # Selected Documents for ISO 27001 Control [CONTROL_NAME]
@@ -78,9 +81,11 @@ class DocumentSelector:
 
             # Create tools for reading documents
             tools = [
-                self._list_documents_tool,
-                self._read_document_tool,
-                self._read_control_tool,
+                # self._list_documents_tool,
+                # self._read_document_tool,
+                # self._read_control_tool,
+                shell,
+                file_read,
             ]
 
             # Initialize agent with tools
@@ -96,6 +101,7 @@ class DocumentSelector:
             logger.error(f"Failed to initialize Agent: {str(e)}", exc_info=True)
             raise
 
+    @tool
     def _list_documents_tool(self) -> List[str]:
         """
         List all markdown files in the documents directory.
@@ -120,6 +126,7 @@ class DocumentSelector:
             logger.error(f"Error listing documents: {e}", exc_info=True)
             return []
 
+    @tool
     def _read_document_tool(self, filename: str) -> Dict[str, str]:
         """
         Read a document from the documents directory.
@@ -156,6 +163,7 @@ class DocumentSelector:
                 "url": "",
             }
 
+    @tool
     def _read_control_tool(self, control_path: str) -> str:
         """
         Read a control file.
