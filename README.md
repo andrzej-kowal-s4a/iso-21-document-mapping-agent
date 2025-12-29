@@ -1,28 +1,23 @@
 # ISO-21 Document Mapping Matching Agent
 
-A Python-based agent for processing ISO-21 documents and generating keywords for document mapping and matching.
+The project include:
+- keywords generation for documents
+- document selection for ISO 27001 controls
 
-## Features
+## Keywords Generation
 
 - Document keyword generation using AI agents
 - Batch processing of multiple documents
 - JSON-based keyword storage
 
-## Requirements
+## Document Selection for ISO 27001 Controls
 
-- Python 3.x
-- See `requirements.txt` for dependencies
-
-## Installation
+### Usage
 
 ```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-python process_documents.py
+python execute_control.py 5.7
+python execute_control.py 8.15
+python execute_control.py 5.1
 ```
 
 ## Project Structure
@@ -30,9 +25,6 @@ python process_documents.py
 - `documents/` - Source documents to process
 - `documents_keywords/` - Generated keyword JSON files
 - `controls/` - ISO control documents
-- `selected_documents/` - Selected documents for processing
-
-## License
-
-[Add your license here]
+- `selected_documents/` - Selected documents for processing manually by the cursor commands
+- `selected_documents_agent/` - Selected documents for processing by the agent (bedrock agent)
 
