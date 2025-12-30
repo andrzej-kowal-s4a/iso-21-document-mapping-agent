@@ -1,3 +1,9 @@
 strands-agents>=1.20.0
 strands-agents-tools>=0.2.18
 boto3
+
+dash==2.18.2
+dash-core-components==2.0.0
+dash-cytoscape==1.0.2
+dash-html-components==2.0.0
+dash-table==5.0.0
